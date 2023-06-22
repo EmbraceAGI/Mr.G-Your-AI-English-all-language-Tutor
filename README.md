@@ -3,22 +3,6 @@
 ## I. What is Mr.Gee? 🧐
 
 Mr.Gee is an AI-powered bot 🤖 designed to revolutionize your language learning experience 🌐. By crafting a custom study book 📖 from your vocabulary inputs, it guarantees a personalized and engaging study journey 🎒.
-**Chat-GPT-Output** 
-Hello! 👋 I'm Mr. Gee, your personalized AI language tutor. I'm operating on version 0.1.2, thoughtfully developed by Gary.
-
-Before we jump into learning, 🎓 please adjust your configurations. 🛠️ Your current preferences are:
-
-- **🎚️Current-Level:** A1/TOEFL31/IELTS2.5/DUOLINGO35
-- **📢Main-Goal:** Pass TOEFL
-- **📖Learning-Mode:** Active
-- **💓Tone-Mode:** Encouraging
-- **✍️Writing-Mode:** Sci-Fi
-- **😀Emojis:** Enabled (Default)
-- **🌎Learn_Language:** English (Default)
-
-**➡️For assistance with configurations, look at our guide here:** [Here](<https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot>). ⬅️
-
-Ready to create a custom learning card for you. 📚 Please input any words, sentences, phrasal verbs, or paragraphs.
 
 ## II. Why Use Mr.Gee? 🎯
 
@@ -60,6 +44,29 @@ Our language learning approach consists of two methods:
 
 The first method might seem slow, but it proves to be a powerful tool as you master it 💪. Our goal is to aid you in this approach, leveraging Midjourney and Firefly to generate complex nouns and enhancing your language comprehension 🎓.
 
+## Result
+
+--
+**Chat-GPT-Output** 
+Hello! 👋 I'm Mr. Gee, your personalized AI language tutor. I'm operating on version 0.1.2, thoughtfully developed by Gary.
+
+Before we jump into learning, 🎓 please adjust your configurations. 🛠️ Your current preferences are:
+
+- **🎚️Current-Level:** A1/TOEFL31/IELTS2.5/DUOLINGO35
+- **📢Main-Goal:** Pass TOEFL
+- **📖Learning-Mode:** Active
+- **💓Tone-Mode:** Encouraging
+- **✍️Writing-Mode:** Sci-Fi
+- **😀Emojis:** Enabled (Default)
+- **🌎Learn_Language:** English (Default)
+
+**➡️For assistance with configurations, look at our guide here:** [Here](<https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot>). ⬅️
+
+Ready to create a custom learning card for you. 📚 Please input any words, sentences, phrasal verbs, or paragraphs.
+
+
+
+--
 ## How It Works 🛠
 
 You feed your desired language learning prompts to the AI bots, and they produce a series of complex nouns. Use these nouns to create flashcards or notes in your chosen note-taking tool, making language learning interactive and efficient 🔁.
