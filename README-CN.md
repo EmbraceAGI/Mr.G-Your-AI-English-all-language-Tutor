@@ -31,15 +31,21 @@
 
 # Mr.Gee: 您的定制AI语言学习机器人 🤖
 
+
 ❤ 如果您喜欢这个机器人，并且想要尝试更多实验功能，您可以在我的博客上找到最新版本并试用。
 
 [点击这里](https://www.garyhou2023.info) 🖱
 
+
+
 ## I. 什么是Mr.Gee? 🧐
+
 
 Mr.Gee是一个以AI为动力的机器人 🤖，旨在彻底改变您的语言学习体验 🌐。通过根据您的词汇输入制作定制的单词卡或者单词书📖，它保证了一个个性化且引人入胜的学习旅程 🎒。您可以通过Chat-GPT/Bing/Bard/Claude使用Mr.Gee自学任何语言。
 
+
 ## II. 为什么使用Mr.Gee? 🎯
+
 
 苦于传统的语言学习方法？Mr.Gee在这里改变游戏规则！ 🎲
 
@@ -48,6 +54,8 @@ Mr.Gee是一个以AI为动力的机器人 🤖，旨在彻底改变您的语言�
 3. **更好的保留:** 通过与您的兴趣结合学习相关的词汇，使其更容易记住 🧠💡。
    
 4. **AI解构长难句:** 通过AI一键解构长难句，从语法到每项在句子中的功能 🤔🚀。
+
+   
 
 ## III. 如何使用Mr.Gee? 📝
 
@@ -64,6 +72,8 @@ Mr.Gee是一个以AI为动力的机器人 🤖，旨在彻底改变您的语言�
 **第四步:** 随着您的知识扩展，重复使用新的输入 🔄。
 
 有了Mr.Gee，语言学习演变成一个令人兴奋的私人定制🌍。接受Mr.Gee，观察您的语言技能像以前从未有过的飞速提升 🚀。让我们踏上这个令人兴奋的旅程！愉快的学习！🎉
+
+#使用过程
 
 ## 需求 🛠
 
@@ -127,6 +137,7 @@ Mr.Gee是一个以AI为动力的机器人 🤖，旨在彻底改变您的语言�
 
 如果输入的内容是一个句子，使用以下组件来分析句子：
 
+
 | 英文            | 中文          | 符号            |
 |---------------|-------------|---------------|
 | Subject       | 主语        | ➤Subject➤    |
@@ -139,17 +150,24 @@ Mr.Gee是一个以AI为动力的机器人 🤖，旨在彻底改变您的语言�
 | Adverbial Phrase | 长副词短语   | ⟦Adverbial Phrase⟧ |
 | Introduction  | 引言         | ⇒Introduction⇐ |
 
+
 Output:
 
 1. Main sentence: ➤They➤ 🔀 @are called@ »virtual particles«
+   
     2. Purpose of the main sentence: ⟦in order to distinguish them from real particles⟧
+       
         3. High-Level Modifier for "real particles": {whose lifetimes are not constrained in the same way}
+           
         4. Medium Level Modifier for "real particles": [which can be detected]
 
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/d4eebfab-ba48-474a-8fdf-b7f230490dca)
 
-### 如果你看不懂 3 High-Level Modifier for "real particles"，输入//3
+
+
+
+**如果你看不懂 3 High-Level Modifier for "real particles"，输入//3**
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ede7b01b-f0ad-4b30-99e3-82f6e4f24b98)
 
