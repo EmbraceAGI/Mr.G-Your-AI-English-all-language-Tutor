@@ -50,6 +50,7 @@ The first method might seem slow, but it proves to be a powerful tool as you mas
 
 ## Result
 
+
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/4fa3887e-61bb-42af-add2-99d9d166ead7)
 
 
@@ -57,10 +58,13 @@ The first method might seem slow, but it proves to be a powerful tool as you mas
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/35f6dc0d-071a-46e1-9269-0f5c44fe513a)
 
+
 **Input: incumbent**
+
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/a20f6838-ac7b-4cb8-be11-9e15d0766e6a)
 
 **Input: sentence**
+
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/d4eebfab-ba48-474a-8fdf-b7f230490dca)
 
 ----
