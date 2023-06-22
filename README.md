@@ -87,12 +87,18 @@ Our language learning approach consists of two methods:
 1. Using Language E (English) to learn E (English) 🇬🇧
 2. Using Language C (Chinese) or D (Dutch) to learn E (English) 🇨🇳🇳🇱
 
-The first method might seem slow, but it proves to be a powerful tool as you master it 💪. Our goal is to aid you in this approach, leveraging Midjourney and Firefly to generate complex nouns and enhancing your language comprehension 🎓.
+Here is the translation for your Chinese text into English:
+
+"The first method might seem slow, but once you master it, it will be the most powerful mode for language learning 💪. Our goal is to help you use this method, to learn English through English, and improve your language comprehension skills 🎓.
 
 ## Result
 
+Enter Mr.Gee-bot.txt"
 
-![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/4fa3887e-61bb-42af-add2-99d9d166ead7)
+Please note that emoticons are kept as is since they convey the same meaning across different languages.
+
+![image](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/6b8c8e10-d162-41d5-9621-a7a1ba505f40)
+
 
 
 ## Ajust your configuration.
