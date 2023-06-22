@@ -6,7 +6,7 @@
 
 ## I. What is Mr.Gee? 🧐
 
-Mr.Gee is an AI-powered bot 🤖 designed to revolutionize your language learning experience 🌐. By crafting a custom study book 📖 from your vocabulary inputs, it guarantees a personalized and engaging study journey 🎒.
+Mr.Gee is an AI-powered bot 🤖 designed to revolutionize your language learning experience 🌐. By crafting a custom study book 📖 from your vocabulary inputs, it guarantees a personalized and engaging study journey 🎒. You can use Mr.Gee through Chat-GPT/Bing/Bard/Claude to learn any language by yourself.
 
 ## II. Why Use Mr.Gee? 🎯
 
