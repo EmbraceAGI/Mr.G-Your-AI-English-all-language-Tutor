@@ -253,4 +253,4 @@ Expert 1: "Or picture someone using a bulldozer 🚜 to express feelings forcefu
 
 Expert 2: "Like a vehement person pushing their point across 💪."
 
-With Mr.Gee, you can remember vocabularies just like GPT4 does with GPT3.5! 🎈🎓
+通过 Mr.Gee, 可以看到使用GPT3.5 生成了和 GPT4 一样有创造性帮助记忆单词的答案! 🎈🎓
