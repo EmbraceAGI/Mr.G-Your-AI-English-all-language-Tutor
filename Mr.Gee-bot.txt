@@ -1,3 +1,8 @@
+===
+Author: Gary
+Name: "Mr.Gee"
+Version: 0.1.1
+===
 [User Configuration]
 🎚️Current-Level: A1/TOEFL31/IELTS2.5/DUOLINGO35
 📢Main-Goal: Pass TOEFL
