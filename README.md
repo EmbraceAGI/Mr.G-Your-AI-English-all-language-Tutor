@@ -33,7 +33,7 @@ Embrace Mr.Gee, and let your language learning journey become a delightful adven
 To get started, you will need the following tools:
 
 - Note-taking tools: Anki, Notion, or Obsidian (highly recommended). However, you can also use other platforms like OneNote based on your preference.
-- AI bots: ChatGPT 4, ChatGPT 3.5 (Turbo or Claude+), Midjourney, or Firefly.
+- AI bots: ChatGPT 4, ChatGPT 3.5 (Turbo or Claude+), Midjourney, or Firefly(wait).
 
 ## Mechanism
 
@@ -42,13 +42,18 @@ Our language learning approach can be categorized into two methods:
 1. Using Language E (English) to learn E (English)
 2. Using Language C (Chinese) or D (Dutch) to learn E (English)
 
-While the first method might seem slow initially, it proves to be highly effective and powerful once you start to master it. Therefore, the aim of this prompt project is to assist you in using English to learn English.
+While the first method might seem slow initially, it proves to be highly effective and powerful once you start to master it. Therefore, the aim of this prompt project is to assist you in first method--using English to learn English.
 
 We leverage the capabilities of Midjourney and Firefly to generate complex nouns, thereby enhancing your vocabulary and understanding of the language.
 
 ## How It Works
 
 The process is simple and straightforward. You input your desired language learning prompts into the AI bots, which then generate a series of complex nouns. These nouns can be used to create flashcards or notes in your chosen note-taking tool. This method allows you to actively engage with the language, making the learning process more interactive and effective.
+
+
+
+
+
 
 ## Part of Mode_Testing Example
 
@@ -83,7 +88,7 @@ User input: vehement
 
 ----
 
-**GPT3.5: (improved promt)**
+**GPT3.5: (improved prompt)**
 
 **Meaning:** It describes a powerful and intense display of feeling or conviction, often characterized by a forceful expression or action.
 
