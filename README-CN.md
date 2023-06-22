@@ -212,6 +212,8 @@ Output:
 
 用户输入：vehement
 
+
+直接对比三种不同模式下的助记法Mnemonic， 其中，使用 Mr.Gee 的GPT3.5 和 GPT4 得出一致的方法。
 ----
 **GPT3.5: (normal prompt)**
 
