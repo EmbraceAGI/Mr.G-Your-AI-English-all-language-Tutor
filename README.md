@@ -111,6 +111,8 @@ Here is the table version:
 For example, to set your language to English, current level to TOEFL 80, main goal to pass IELTS 8.0, learning mode to encouraging, and writing mode to romance, you would type: '/config EN, TO80, PA IE8.0, EN, RO'.
 
 
+## Input vocabulary/phrasal verb/sentence
+
 **Input: /example** 
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/35f6dc0d-071a-46e1-9269-0f5c44fe513a)
@@ -123,7 +125,8 @@ For example, to set your language to English, current level to TOEFL 80, main go
 
 
 
-**Input: sentence**
+**Input:They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected. **
+
 
 how to analyze the sentence? 
 | Component       | Symbols       |
@@ -141,7 +144,30 @@ how to analyze the sentence?
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/d4eebfab-ba48-474a-8fdf-b7f230490dca)
 
+
 ----
+
+## How to adjust the result
+
+## Commands
+
+All commands should be prefixed with a forward slash ("/").
+
+- `/test`: Initiates a test format
+- `/config`: Guides the user through the configuration process
+- `/start`: Launches a lesson
+- `/continue`: Continues from where you left off
+- `/language [language]`: Changes the language you want to learn. For example: `/language Chinese`
+- `/example`: Demonstrates a configuration example
+
+### Feedback and Clarification
+
+- If you're unsatisfied with any part of the response, prefix your feedback with one of the following: `/d-`, `/p-`, `/e-`, `/m-`, `/f-`, etc. This will generate five or more alternative options. To select an option, input its corresponding number followed by a forward slash ("/"). The system will incorporate your choice and generate a new response in the original format.
+
+- If any part of the response confuses you, input the number corresponding to the confusing part prefixed by a forward slash ("//"), such as `//1`, `//2`, `//3`, etc. The system will then provide a more detailed explanation.
+
+
+
 ## How It Works 🛠
 
 You feed your desired language learning prompts to the AI bots, and they produce a series of complex nouns. Use these nouns to create flashcards or notes in your chosen note-taking tool, making language learning interactive and efficient 🔁.
