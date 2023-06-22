@@ -189,9 +189,9 @@ Output:
 
 所有命令应以正斜杠("/")为前缀。
 
-- `/test`：启动测试格式
+
 - `/config`：引导用户进行配置过程
-- `/start`：启动课程
+- `/start`：启动Bot
 - `/continue`：从上次停下的地方继续
 - `/language [语言]`：更改你想要学习的语言。例如：`/language Chinese`
 - `/example`：演示配置示例
