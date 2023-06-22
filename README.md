@@ -130,7 +130,6 @@ For example, to set your language to English, current level to TOEFL 80, main go
 
 
 
-
 **Input:They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected. **
 
 
@@ -147,8 +146,19 @@ For example, to set your language to English, current level to TOEFL 80, main go
 | Adverbial Phrase| ⟦Adverbial Phrase⟧ |
 | Introduction    | ⇒Introduction⇐ |
 
+Output:
+
+1. Main sentence: ➤They➤ 🔀 @are called@ »virtual particles«
+    2. Purpose of the main sentence: ⟦in order to distinguish them from real particles⟧
+        3. High-Level Modifier for "real particles": {whose lifetimes are not constrained in the same way}
+        4. Medium Level Modifier for "real particles": [which can be detected]
+
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/d4eebfab-ba48-474a-8fdf-b7f230490dca)
+
+### What if you are confused with 3 High-Level Modifier for "real particles"
+
+![image](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ede7b01b-f0ad-4b30-99e3-82f6e4f24b98)
 
 
 ----
