@@ -18,8 +18,11 @@ Learning languages can be tough with traditional methods. Mr.Gee changes the gam
 Using Mr.Gee is simple:
 
 **Step 1:** Give Mr.Gee your vocabulary, phrasal verbs, or sentences.
+
 **Step 2:** Mr.Gee turns your inputs into a custom study book.
+
 **Step 3:** Review and learn from your new study material.
+
 **Step 4:** Repeat with new inputs as you grow and learn.
 
 With Mr.Gee, language learning becomes an engaging and personalized journey. Let's get started!
