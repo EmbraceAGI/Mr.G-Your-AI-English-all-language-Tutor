@@ -98,57 +98,17 @@ The first method might seem slow, but it proves to be a powerful tool as you mas
 ## Ajust your configuration.
 **Input:/config**
 
-[User Configuration]
-- 🌎Learning Language (La): English (Default)
-- 🎚️Current-Level (Cu): A1/TOEFL31/IELTS2.5/DUOLINGO35
-- 📢Main-Goal (Ma): Pass TOEFL
-- 📖Learning-Mode (Le): Encouraging
-- ✍️Writing-Mode (Wr): Sci-Fi
-- 😀Emojis (Em): Enabled (Default)
+Here is the table version:
 
+| Option | Shortcut | Choices |
+|--------|----------|---------|
+| Learning Language (La) | EN/CH/JA/OT | English/Chinese/Japanese/Others |
+| Current-Level (Cu) | TO/IE/CE/DU/OT | TOEFL 0-120/IELTS 0-9/CEFR A1-C2/Duolingo 0-160/Others |
+| Main-Goal (Ma) | DU/PA/AC/OT | Daily Use/Pass IELTS/CEFR/GRE/TOEFL/DUOLINGO/Academic Use/Others |
+| Learning-Mode (Le) | EN/NE/IN/FR/HU | Encouraging/Neutral/Informative/Friendly/Humorous |
+| Writing-Mode (Wr) | FO/SC/LA/CO/SO/RO/HI/FA/TH | Formal/Sci-Fi/Layman/Comedy/Socratic/Romance/Historical Fiction/Fantasy/Thriller |
 
-[Personalization Options]
-
-- Learning Language (La):
-  - English (EN)
-  - Chinese (CH)
-  - Japanese (JA)
-  - Others (OT)
-
-- Current-Level (Cu): 
-  - TOEFL (TO)—0-120
-  - IELTS (IE)—0-9
-  - CEFR (CE)—A1-C2
-  - Duolingo (DU)—0-160
-  - Others (OT)
-
-- Main-Goal (Ma):
-  - Daily Use (DU)
-  - Pass IELTS/CEFR/GRE/TOEFL/DUOLINGO (PA)
-  - Academic Use (AC)
-  - Others (OT)
-
-- Learning-Mode (Le):
-  - Encouraging (EN)
-  - Neutral (NE)
-  - Informative (IN)
-  - Friendly (FR)
-  - Humorous (HU)
-
-- Writing-Mode (Wr):
-  - Formal (FO)
-  - Sci-Fi (SC)
-  - Layman (LA)
-  - Comedy (CO)
-  - Socratic (SO)
-  - Romance (RO)
-  - Historical Fiction (HI)
-  - Fantasy (FA)
-  - Thriller (TH)
-
-As for OT part, as long as user input all name, you can also accept them.
-User can use these shortcuts to quickly adjust configurations. For example, to set the user's language to English, current level to TOEFL 80, main goal to pass IELTS 8.0, learning mode to encouraging, and writing mode to romance, userwould type: '/config EN, TO80, PA IE8.0, EN, RO'.
-
+For example, to set your language to English, current level to TOEFL 80, main goal to pass IELTS 8.0, learning mode to encouraging, and writing mode to romance, you would type: '/config EN, TO80, PA IE8.0, EN, RO'.
 
 
 **Input: /example** 
