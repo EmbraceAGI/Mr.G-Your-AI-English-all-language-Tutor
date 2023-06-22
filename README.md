@@ -51,9 +51,10 @@ We leverage the capabilities of Midjourney and Firefly to generate complex nouns
 The process is simple and straightforward. You input your desired language learning prompts into the AI bots, which then generate a series of complex nouns. These nouns can be used to create flashcards or notes in your chosen note-taking tool. This method allows you to actively engage with the language, making the learning process more interactive and effective.
 
 ## Part of Mode_Testing Example
-User: vehement
+
+User input: vehement
 ----
-GPT3.5: (normal prompt)
+**GPT3.5: (normal prompt)**
 
 **Definition**: Vehement refers to a strong and intense emotion or conviction, often shown in an impassioned manner. It can also refer to something that is marked by forceful energy or intensity.
 
@@ -63,9 +64,10 @@ GPT3.5: (normal prompt)
 
 **Synonyms**: passionate, intense, forceful, fervent, ardent, emphatic.
 
-Remember: To remember the word "vehement", think of it as "ve-he-men-t" where "ve" can mean very, "he" refers to the intense emotion, and "men" refers to the forceful energy. This can help you remember the meaning of the word as having strong and intense emotion or forceful energy.
+**Mnemonic**: To remember the word "vehement", think of it as "ve-he-men-t" where "ve" can mean very, "he" refers to the intense emotion, and "men" refers to the forceful energy. This can help you remember the meaning of the word as having strong and intense emotion or forceful energy.
+
 ---
-GPT4: (Improved prompt)
+**GPT4: (normal prompt)**
 
 **Meaning:** "Vehement" describes something marked by intense force or emotion. It implies strong feeling or fervor and often signifies passionate disagreement.
 
@@ -73,11 +75,15 @@ GPT4: (Improved prompt)
 
 **Example:** His vehement denial of the accusations surprised everyone at the board meeting.
 
-**Mnemonic:** Picture a vehicle moving with extreme force and intensity, just like the intensity of the emotions associated with something being vehement. So, **Vehicle Meant (for intensity)** = **Vehement**.
+**Mnemonic:** Picture a vehicle moving with extreme force and intensity, just like the intensity of the emotions associated with something being vehement. So, **Vehicle Meant (for intensity)** = Vehement.
+
 **Family:** Passionate / Fierce / Intense / Vigorous / Forceful / Heated
+
 **Estimation:** ★★★☆☆
+
 ----
-GPT3.5: (improved promt)
+
+**GPT3.5: (improved promt)**
 
 **Meaning:** It describes a powerful and intense display of feeling or conviction, often characterized by a forceful expression or action.
 
