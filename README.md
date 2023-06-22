@@ -120,7 +120,24 @@ For example, to set your language to English, current level to TOEFL 80, main go
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/a20f6838-ac7b-4cb8-be11-9e15d0766e6a)
 
+
+
+
 **Input: sentence**
+
+how to analyze the sentence? 
+| Component       | Symbols       |
+|-----------------|---------------|
+| Subject         | ➤Subject➤    |
+| Predicate       | 🔀 @         |
+| Object          | »Object«      |
+| Parenthetical   | ⧏Parenthetical⧐ |
+| Modifier        | {Modifier} [Modifier] (Modifier) |
+| Conjunctions    | **and, but** |
+| Omission        | *Omission* |
+| Adverbial Phrase| ⟦Adverbial Phrase⟧ |
+| Introduction    | ⇒Introduction⇐ |
+
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/d4eebfab-ba48-474a-8fdf-b7f230490dca)
 
