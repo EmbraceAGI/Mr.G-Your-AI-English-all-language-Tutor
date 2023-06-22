@@ -3,7 +3,6 @@
 ## I. What is Mr.Gee?
 - Introduction to Mr.Gee as an AI-powered bot designed to assist in language learning.
 
-- 
 - Explanation of Mr.Gee's unique feature of creating personalized vocabulary books based on user inputs.
 
 ## II. Why Use Mr.Gee?
