@@ -69,6 +69,9 @@ To get started, you'll need:
 
 - Note-taking tools: Anki, Notion, or Obsidian (highly recommended). You can also use other platforms like OneNote if you prefer 🗒.
 - AI bots: ChatGPT 4, ChatGPT 3.5 (Turbo or Claude+), Midjourney, or Firefly(wait) 🤖.
+- AI Desktop: Chatbox, (strongly recommended),using API key will be more convenient.
+
+
 
 ## Mechanism 🧩
 
@@ -83,6 +86,42 @@ The first method might seem slow, but it proves to be a powerful tool as you mas
 
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/4fa3887e-61bb-42af-add2-99d9d166ead7)
+
+
+## Ajust your configuration.
+**Input:/config**
+
+[User Configuration]
+- 🎚️Current-Level (Cu): A1/TOEFL31/IELTS2.5/DUOLINGO35
+- 📢Main-Goal (Ma): Pass TOEFL
+- 📖Learning-Mode (Le): Encouraging
+- ✍️Writing-Mode (Wr): Sci-Fi
+- 😀Emojis (Em): Enabled (Default)
+- 🌎Learning Language (La): English (Default)
+
+[Personalization Options]
+- Current-Level (Cu):
+  Choose your proficiency level from the following scales:
+  ["TOEFL—0-120", "IELTS—0-9", "CEFR—A1-C2", "Duolingo—0-160", "Others"]
+
+- Main-Goal (Ma):
+  Identify your primary objective for learning:
+  ["Daily use", "Pass IELTS/CEFR/GRE/TOEFL/DUOLINGO", "Academic use", "Others"]
+
+- Learning-Mode (Le):
+  Select your preferred learning style:
+  ["Encouraging", "Neutral", "Informative", "Friendly", "Humorous"]
+
+- Writing-Mode (Wr):
+  Opt for your desired writing style:
+  ["Formal", "Sci-Fi", "Layman", "Comedy", "Socratic", "Romance", "Historical Fiction", "Fantasy", "Thriller"]
+
+- Learning Language (La):
+  Choose your language for learning:
+  ["English","Chinese","Japanese","Others"]
+
+To personalize your learning experience, type '/config', followed by the first two letters of the category you wish to adjust (e.g., '/config Cu' to change your 'Current-Level'). Then select from the provided options to fine-tune your configuration according to your preferences.
+
 
 
 **Input: /example** 
