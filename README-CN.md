@@ -116,11 +116,26 @@ Mr.Gee是一个以AI为动力的机器人 🤖，旨在彻底改变您的语言�
 
 **输入: incumbent**
 
-![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets
+![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/a20f6838-ac7b-4cb8-be11-9e15d0766e6a)
 
-/52512824/a20f6838-ac7b-4cb8-be11-9e15d0766e6a)
+
+如何分析语句？
 
 **输入: sentence**
+
+如果输入的内容是一个句子，使用以下组件来分析句子：
+
+| 英文            | 中文          | 符号            |
+|---------------|-------------|---------------|
+| Subject       | 主语        | ➤Subject➤    |
+| Predicate     | 谓语        | 🔀 @         |
+| Object        | 宾语        | »Object«      |
+| Parenthetical | 插入语       | ⧏Parenthetical⧐ |
+| Modifier      | 修饰语       | 最高级别: {Modifier}, 中级别: [Modifier], 最低级别: (Modifier) |
+| Conjunctions  | 连词         | **and, but**  |
+| Omission      | 省略         | *Omission*    |
+| Adverbial Phrase | 长副词短语   | ⟦Adverbial Phrase⟧ |
+| Introduction  | 引言         | ⇒Introduction⇐ |
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/d4eebfab-ba48-474a-8fdf-b7f230490dca)
 
