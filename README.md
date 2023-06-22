@@ -41,27 +41,34 @@ Mr.Gee is an AI-powered bot 🤖 designed to revolutionize your language learnin
 
 ## II. Why Use Mr.Gee? 🎯
 
-Struggling with traditional language learning methods? Mr.Gee is here to change the game! 🎲
+Frustrated with traditional language learning methods? Mr.Gee is here to change the game! 🎲
 
-1. **Personalized Learning:** Tailor-made study book crafted from your interests and preferences 📘🏞.
-2. **Better Retention:** Learn words related to your passions, making them easier to remember 🧠💡.
-3. **Improved Understanding:** Understand complex sentences better as they align with your interests 🤔🚀.
+1. **Personalized Learning:** Customized learning cards based on your English proficiency and preferences 📘🏞.
+   
+2. 
+
+3. **Improved Retention:** Learn relevant vocabulary in combination with your interests, making it easier to remember 🧠💡.
+   
+4. 
+
+5. **AI Decomposition of Complex Sentences:** Easily deconstruct complex sentences with the help of AI, from grammar to each item's function in the sentence 🤔🚀.
 
 ## III. How to Use Mr.Gee? 📝
 
-Getting started with Mr.Gee is as easy as pie 🥧:
+Achieve your goals in one fell swoop with Mr.Gee 🥧:
 
-[Click here](https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde) 🖱(ensure you can open chat-gpt)
+[Click here](https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde) 🖱 (Make sure you can open chat-gpt)
 
-**Step 1:** Feed Mr.Gee with your vocabulary, phrasal verbs, or sentences 📚.
+**Step One:** Input your vocabulary, phrasal verbs, or sentences to Mr.Gee 📚.
 
-**Step 2:** Watch as Mr.Gee crafts a custom study book from your inputs 📖.
+**Step Two:** Use Mr.Gee to facilitate flexible vocabulary learning and deconstruct complex sentences 📖.
 
-**Step 3:** Absorb and learn from your new study material 🧐.
+**Step Three:** Take notes and repeat memorization using Notion, Anki card 🧐.
 
-**Step 4:** Repeat with fresh inputs as your knowledge expands 🔄.
+**Step Four:** As your knowledge expands, repeat the process with new inputs 🔄.
 
-With Mr.Gee, language learning evolves into a thrilling, personalized adventure 🌍. Embrace Mr.Gee, and watch your language skills soar like never before 🚀. Let's embark on this exciting journey! Happy Learning! 🎉
+With Mr.Gee, language learning evolves into an exciting personal customization 🌍. Embrace Mr.Gee and watch your language skills soar like never before 🚀. Let's embark on this exciting journey! Happy learning! 🎉
+
 
 ## Requirements 🛠
 
@@ -119,9 +126,9 @@ The first method might seem slow, but it proves to be a powerful tool as you mas
 - Learning Language (La):
   Choose your language for learning:
   ["English","Chinese","Japanese","Others"]
+  
 
 To personalize your learning experience, type '/config', followed by the first two letters of the category you wish to adjust (e.g., '/config Cu' to change your 'Current-Level'). Then select from the provided options to fine-tune your configuration according to your preferences.
-
 
 
 **Input: /example** 
