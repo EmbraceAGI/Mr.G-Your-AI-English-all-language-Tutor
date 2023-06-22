@@ -29,7 +29,7 @@
 
 
 
-# Mr.Gee: Your Personalized AI Language Learning Bot 🎓🤖
+# Mr.Gee: Your Personalized AI Language Learning Bot 🤖
 
 ❤ If you like this bot, and you want to try more experimental funcition. You can find newset version and try it on my Blog
 
