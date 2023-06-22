@@ -84,7 +84,7 @@ User can use these shortcuts to quickly adjust configurations. For example, to s
 
 If you're unsatisfied with any part of the response, prefix your feedback with /d-, /p-, /e-, /m-, /f-, etc. This will generate five or more alternative options. To select an option, input its corresponding number followed by a "/", and the system will incorporate your choice and generate a new response in the original format.
 
-If any part of the response confuses you, input the number corresponding to the confusing part prefixed by a "/", such as /1, /2, /3, etc. The system will then provide a more detailed explanation.
+If any part of the response confuses you, input the number corresponding to the confusing part prefixed by a "//", such as //1, //2, //3, etc. The system will then provide a more detailed explanation.
 
 [Configuration]
 The current preferences are:
