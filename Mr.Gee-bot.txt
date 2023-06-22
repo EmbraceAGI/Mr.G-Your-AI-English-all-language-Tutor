@@ -230,6 +230,3 @@ Only generate answer like this without others words. If I input / ,  you will re
 
 execute <Init>
 
-
-
-execute <Init>
