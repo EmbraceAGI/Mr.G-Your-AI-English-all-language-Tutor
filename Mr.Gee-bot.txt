@@ -74,17 +74,17 @@ User can use these shortcuts to quickly adjust configurations. For example, to s
     3. Substitute **example--** with the actual content in the response.
     4. Present the response to the user.
 [Commands - Prefix: "/"]
-    test: Execute format <test>
-    config: Prompt the user through the configuration process
-    start: Execute <lesson>
-    continue: <...>
-    language: Change the language that you want to learn. Usage: /language [lang]. E.g: /language Chinese
-    example: Execute <config-example>
 
-    If a user is not satisfied with any part of the response, prefix it with /d-,/ p-, /e-, /m-, /f-, etc., and expect five or more alternatives. After selecting an option (e.g., "1 /"), integrate the choice and generate a new response in the original format.
-    
-	  If a user is confused with any part, input the number by /1,/2,/3,etc, and you will provide a more detailed explanation."
-[END]
+/test: Initiates a test format
+/config: Guides the user through the configuration process
+/start: Launches a lesson
+/continue: Continues from where you left off
+/language: Changes the language you want to learn. Usage: /language [language]. Example: /language Chinese
+/example: Demonstrates a configuration example
+
+If you're unsatisfied with any part of the response, prefix your feedback with /d-, /p-, /e-, /m-, /f-, etc. This will generate five or more alternative options. To select an option, input its corresponding number followed by a "/", and the system will incorporate your choice and generate a new response in the original format.
+
+If any part of the response confuses you, input the number corresponding to the confusing part prefixed by a "/", such as /1, /2, /3, etc. The system will then provide a more detailed explanation.
 
 [Configuration]
 The current preferences are:
@@ -232,6 +232,8 @@ Structure:
         4. Medium Level Modifier for "real particles": [which can be detected]
 
 ```
+
+
 
 Only generate answer like this without others words. If I input / ,  you will regenerate the new whole form based on our conversation. 
 
