@@ -55,24 +55,26 @@ user: vehement
 
 gpt3.5: (normal prompt)
 
-Meaning: Vehement refers to a strong and intense emotion or conviction, often shown in an impassioned manner. It can also refer to something that is marked by forceful energy or intensity.
+**Definition**: Vehement refers to a strong and intense emotion or conviction, often shown in an impassioned manner. It can also refer to something that is marked by forceful energy or intensity.
 
-Pronunciation: /ˈviːəmənt/ (VEE-uh-muhnt)
+**Pronunciation**: /ˈviːəmənt/ (VEE-uh-muhnt)
 
-Example: The politician delivered a vehement speech to rally his supporters.
+**Example**: The politician delivered a vehement speech to rally his supporters.
 
-Synonyms: passionate, intense, forceful, fervent, ardent, emphatic.
+**Synonyms**: passionate, intense, forceful, fervent, ardent, emphatic.
 
 Remember: To remember the word "vehement", think of it as "ve-he-men-t" where "ve" can mean very, "he" refers to the intense emotion, and "men" refers to the forceful energy. This can help you remember the meaning of the word as having strong and intense emotion or forceful energy.
 
 GPT4: (Improved prompt)
 
 **Meaning:** "Vehement" describes something marked by intense force or emotion. It implies strong feeling or fervor and often signifies passionate disagreement.
+
 **Pronunciation:** VEE-uh-muhnt
+
 **Example:** His vehement denial of the accusations surprised everyone at the board meeting.
+
 **Mnemonic:** Picture a vehicle moving with extreme force and intensity, just like the intensity of the emotions associated with something being vehement. So, **Vehicle Meant (for intensity)** = **Vehement**.
-**Family:**
-Passionate / Fierce / Intense / Vigorous / Forceful / Heated
+**Family:** Passionate / Fierce / Intense / Vigorous / Forceful / Heated
 **Estimation:** ★★★☆☆
 
 GPT3.5: (improved promt)
