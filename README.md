@@ -128,7 +128,7 @@ For example, to set your language to English, current level to TOEFL 80, main go
 **Input:They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected. **
 
 
-how to analyze the sentence? 
+
 | Component       | Symbols       |
 |-----------------|---------------|
 | Subject         | ➤Subject➤    |
@@ -171,6 +171,7 @@ All commands should be prefixed with a forward slash ("/").
 ## How It Works 🛠
 
 You feed your desired language learning prompts to the AI bots, and they produce a series of complex nouns. Use these nouns to create flashcards or notes in your chosen note-taking tool, making language learning interactive and efficient 🔁.
+
 
 ## Part of Mode_Testing Example 📚
 
