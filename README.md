@@ -17,6 +17,8 @@ Learning languages can be tough with traditional methods. Mr.Gee changes the gam
 
 Using Mr.Gee is simple:
 
+click here: https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde  (make sure you can open chat-gpt)
+
 **Step 1:** Give Mr.Gee your vocabulary, phrasal verbs, or sentences.
 
 **Step 2:** Mr.Gee turns your inputs into a custom study book.
