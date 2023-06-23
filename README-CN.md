@@ -1,11 +1,11 @@
 <h1 align="center">
-<span>Mr.Gee-您的AI语言学习机器人</span>
+<span>Mr.Gee-您的专属AI英语学习机器人</span>
 </h1>
 <p align="center">
     English | <a href="./README-CN.md">中文介绍</a>
 </p>
 <p align="center">
-    <em>您可以通过Chat-GPT/Bing/Bard/Claude使用Mr.Gee自学任何语言。</em>
+    <em>英语单词记不住？长难句看不懂？文章抓不住中心？您可以使用Mr.Gee解决这些问题，自学任何语言。</em>
 </p>
 
 
