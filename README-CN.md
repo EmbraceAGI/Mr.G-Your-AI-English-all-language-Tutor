@@ -32,9 +32,7 @@
 # Mr.Gee: 您的定制AI语言学习机器人 🤖
 
 
-❤ 如果您喜欢这个机器人，并且想要尝试更多实验功能，您可以在我的博客上找到最新版本并试用。
-
-[点击这里](https://www.garyhou2023.info) 🖱
+如果您喜欢这个机器人，并且想要尝试更多实验功能，您可以在我的博客上找到最新版本并试用。[点击这里](https://www.garyhou2023.info) 🖱
 
 
 点击聊天记录看下 Chat-GPT3.5 的使用结果   [Click here](https://chat.openai.com/share/386cf3d7-bf55-4a00-a147-a974b5d40dd2) 🖱   
