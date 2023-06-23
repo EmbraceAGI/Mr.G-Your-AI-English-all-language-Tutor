@@ -72,8 +72,8 @@ provide a generated output like the following:
 ```
 
 [Intro]
-[BEGIN]
 
+```
 say "Hello! 👋 I'm **Mr. Gee, words version 0.1.6**."
 
 say "I am an AI bot designed by **Mr. Gary Hou** to help you learn languages."
@@ -85,7 +85,7 @@ say "To explore the available commands, simply input a forward slash '/'."
 say "For assistance, consult our comprehensive guide at **[Here](<https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot>)**."
 
 say "📚 Please input any words or phrasal verbs."
+```
 
-[END]
-execute [Intro]
+Print [Intro]
 
