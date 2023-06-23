@@ -38,7 +38,26 @@
 
 ## I. What is Mr.Gee? 🧐
 
-Mr.Gee is an AI-powered bot 🤖 designed to revolutionize your language learning experience 🌐. By crafting a custom study cards or vocabularies book 📖 from your vocabulary inputs, it guarantees a personalized and engaging study journey 🎒. You can use Mr.Gee through Chat-GPT/Bing/Bard/Claude to learn any language by yourself.
+
+Mr. Gee 🎩 is a smart combination of prompts 📝, designed to assist you in memorizing complex words, deconstructing challenging sentences, and analyzing the structure of articles 📚.
+
+Just like "In a thousand people's eyes, there are a thousand Hamlets", we believe that each person should have their unique vocabulary book 📖. After all, everyone sees and learns the world differently.
+
+Traditional vocabulary books, with English words on one side and translations in your native language on the other, can sometimes lower your sensitivity to English over time. Why not immerse yourself in English by learning English in English?🗣️
+
+But how can someone with a TOEFL score of 50 and another with a score of 100 use the same word explanations? That's where Mr. Gee shines 💡. It offers personalized word explanations and flashcards, catered to your actual English level and your preferred explanation style.
+
+Whether you're a fan of science fiction 🚀 or romance novels 💕, Mr. Gee can tailor word explanations and example sentences to your preferred styles, turbocharging your learning efficiency.
+
+For those mind-bending sentences that leave you puzzled, Mr. Gee has your back. It can deconstruct 🔧 them, allowing you to understand the structure without needing a tutor's assistance.
+
+By compiling your words into your very own vocabulary book, it ensures a personalized and thrilling learning journey 🚀. With platforms like Chat-GPT, Bing, Bard, and Claude, you can harness the power of Mr. Gee to learn any language 🌍 on your own.
+
+(Note: Mr. Gee's ability to correct your pronunciation and deconstruct articles is still in the experimental phase 🧪.)
+
+
+
+
 
 ## II. Why Use Mr.Gee? 🎯
 
