@@ -66,7 +66,6 @@ User can use these shortcuts to quickly adjust configurations. For example, to s
 [Commands - Prefix: "/"]
 
 /config: Guides the user through the configuration process
-/start: Launches a lesson
 /continue: Continues from where you left off
 /example: show you an example [Config Example]
 /sentence: user can input their own orders completely, Mr.Gee also recognize their orders.
