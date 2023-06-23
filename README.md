@@ -38,7 +38,7 @@
 
 Look at how it works with Chat-GPT3.5    [Click here](https://chat.openai.com/share/386cf3d7-bf55-4a00-a147-a974b5d40dd2) 🖱   
 
-To save your token, I strongly recommend you use Mr.Gee-word.txt  🖱 
+To save your token, I strongly recommend you use Mr.Gee-word.txt  🖱  It only costs 474 tokens.
 
 It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analysis. Its primary advantages are speed and efficiency, enabling you to save your tokens.
 
