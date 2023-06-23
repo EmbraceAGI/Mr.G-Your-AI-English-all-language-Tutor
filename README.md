@@ -30,59 +30,61 @@
 
 
 
-# Mr.Gee: Your Personalized AI Language Learning Bot 🤖
+# Mr.Gee: Your Personalized AI-Language Learning Bot 🤖
 
-❤ If you like this bot, and you want to try more experimental funcition. You can find newset version and try it on my Blog
+❤ If you like this bot, and you want to try more experimental functions. You can find newest version and try it on my Blog
 
 [Click here](https://www.garyhou2023.info) 🖱  <br>
 
 ## I. What is Mr.Gee? 🧐
 
-Mr.Gee is a combination of a series of prompts 🤖, designed to help you remember complex words, analyze and deconstruct long difficult sentences, and assess the structure of articles 🌐.
+Mr.Gee is a composite of various prompts 🤖. Its main purpose is to assist you in memorizing complex words, dissecting long and intricate sentences, and analyzing article structures 🌐.
 
-There's a Hamlet in the eyes of a thousand individuals. Likewise, there should be a thousand different word books in the eyes of a thousand people, each with their own unique book of words.
+There's a unique interpretation of Hamlet in the eyes of a thousand individuals. Similarly, there should be a thousand different word books in the eyes of a thousand people. The idea is that everyone should have their own unique book of words. 
 
-Traditional word books are stereotyped, with English words on the left and native language explanations on the right. However, the long-term consequence of this is a low sensitivity to English. Naturally, the brain would be slower with an English-Chinese-English pathway, so the most effective way is to learn English in English.
+Traditional wordbooks follow a standard pattern: English words on the left and native language explanations on the right. This approach, over time, may reduce our sensitivity to English. With a learning pathway that goes from English to Chinese and back to English, the learning process can become slower. Hence, learning English in English is the most effective.
 
-But how could a person with a TOEFL score of 50 and one with a score of 100 use the exact same word explanations to learn? The advantage of Mr.Gee is that it generates word explanations and word memory cards that are tailored to your actual English level and your preferred style of explanation.
+Now, consider two individuals with vastly different English proficiency, one with a TOEFL score of 50 and another with a score of 100. It wouldn't make sense for them to learn using the same-word explanations. This is where Mr.Gee excels. It generates word explanations and memory cards customized to your actual English level and your preferred style of explanation. 
 
-Imagine the efficiency boost for a student who likes science fiction novels and another who prefers romance novels if they could learn word explanations and examples in their favorite styles.
+For instance, a student who enjoys science fiction novels and another who favors romance novels would experience significant efficiency improvements if they could learn word explanations and examples in their preferred styles. 
 
-For difficult sentences that you don't understand, Mr.Gee can perform deconstructions. Once you're familiar with the symbols, you can directly understand the structure of any complex sentences without needing a tutor to help you analyze them.
+When it comes to complex sentences you may struggle with, Mr.Gee can deconstruct them for you. Once you're familiar with the symbols, you'll be able to understand the structure of any complicated sentence without needing a tutor to guide you through it.
 
-By building your own personalized word book📖 based on your accumulated words, it guarantees a personalized and engaging learning journey 🎒. You can self-study any language using Mr.Gee through Chat-GPT/Bing/Bard/Claude.
+Mr.Gee creates your own personalized word book📖 based on your accumulated vocabulary, ensuring a customized and engaging learning journey 🎒. You can self-learn any language using Mr.Gee through platforms like Chat-GPT, Bing, Bard, or Claude. 
 
-(How Mr.Gee corrects your pronunciation and performs article deconstruction is still in experimentation)
-
-
+(Note: Features like pronunciation correction and article deconstruction using Mr.Gee are still in experimentation.)
 
 ## II. Why use Mr.Gee? 🎯
 
-Tired of traditional language learning methods? Mr.Gee is here to change the game! 🎲
+If traditional language learning methods seem tedious to you, Mr.Gee is here to revolutionize the process! 🎲
 
-1. **Personalized Learning:** Customized study cards based on your English level and preferences 📘🏞.
+1. **Personalized Learning:** It tailors study cards to your English level and personal preferences 📘🏞.
    
-2. **Easier Word Memorization:** Learn vocabulary related to your interests, making it easier to remember 🧠💡.
+2. **Enhanced Word Memorization:** It facilitates the learning of vocabulary connected to your interests, making memorization easier 🧠💡.
    
-3. **AI Deconstruction of Complex Sentences:** Deconstruct complex sentences with AI at the touch of a button, from grammar to each component's function in a sentence 🤔🚀.
-
-
+3. **AI-assisted Sentence Deconstruction:** With just a click, it deconstructs complex sentences from the grammatical level to individual components within a sentence 🤔🚀.
 
 ## III. How to use Mr.Gee? 📝
 
-Using Mr.Gee is as easy as pie 🥧:
+Making the best use of Mr.Gee is as easy as pie 🥧:
 
-[Click here](https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde) 🖱(ensure that you can open chat-gpt)
+You can [click here](https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde) 🖱(ensure that you can open chat-gpt)
 
-Or directly copy Mr.Gee-bot.txt into your AI chat box
+Alternatively, you can directly copy Mr.Gee-bot.txt into your AI chat box
 
-**Step One:** Input your words, phrasal verbs, or sentences into Mr.Gee 📚.
+**Step One:** Input your vocabulary, phrasal verbs, or sentences into Mr.Gee 📚.
 
-**Step Two:** Use Mr.Gee to flexibly remember words and deconstruct complex sentences 📖.
+**Step Two:** Use Mr.Gee to assist you in flexible word memorization and dissection of complex sentences 📖.
 
-**Step Three:** Combine the generated answers with Notion, Anki card for note-taking and repetition 🧐.
+**Step Three:** Consolidate the answers generated with note-taking tools like Notion, and Anki card for note-taking, and repetition 🧐.
 
-With Mr.Gee, language learning evolves into an exciting, personalized experience🌍. Mr.Gee boosts your language skills at an unprecedented speed 🚀. Let's embark on this exciting journey! Happy learning!🎉 <br><br>
+With Mr.Gee, language learning becomes an exciting personalized journey🌍. Mr.Gee facilitates a rapid enhancement of your language skills like never before 🚀. Let's embark on this thrilling journey! Here's to enjoyable and effective learning!🎉
+
+
+
+
+
+<br><br>
 
 
 ## Requirements 🛠
@@ -91,7 +93,7 @@ To get started, you'll need:
 
 - Note-taking tools: Anki, Notion, or Obsidian (highly recommended). You can also use other platforms like OneNote if you prefer 🗒.
 - AI bots: ChatGPT 4, ChatGPT 3.5 (Turbo or Claude+), Midjourney, or Firefly(wait) 🤖.
-- AI Desktop: Chatbox, (strongly recommended),using API key will be more convenient.
+- AI Desktop: Chatbox, (strongly recommended), using API key will be more convenient.
 
 
 
@@ -129,7 +131,7 @@ Here is the table version:
 | Learning-Mode (Le) | EN/NE/IN/FR/HU | Encouraging/Neutral/Informative/Friendly/Humorous |
 | Writing-Mode (Wr) | FO/SC/LA/CO/SO/RO/HI/FA/TH | Formal/Sci-Fi/Layman/Comedy/Socratic/Romance/Historical Fiction/Fantasy/Thriller |
 
-For example, to set your language to English, current level to TOEFL 80, main goal to pass IELTS 8.0, learning mode to encouraging, and writing mode to romance, you would type: '/config EN, TO80, PA IE8.0, EN, RO'.
+For example, to set your language to English, current level to TOEFL 80, the main goal to pass IELTS 8.0, learning mode to encouraging, and writing mode to romance, you would type: '/config EN, TO80, PA IE8.0, EN, RO'.
 
 
 ## Input vocabulary/phrasal verb/sentence
@@ -145,7 +147,7 @@ For example, to set your language to English, current level to TOEFL 80, main go
 
 
 
-**Input:They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected. **
+**Input: They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected. **
 
 
 
