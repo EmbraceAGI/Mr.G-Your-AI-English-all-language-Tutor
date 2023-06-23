@@ -34,60 +34,55 @@
 
 ❤ If you like this bot, and you want to try more experimental funcition. You can find newset version and try it on my Blog
 
-[Click here](https://www.garyhou2023.info) 🖱
+[Click here](https://www.garyhou2023.info) 🖱  <br>
 
 ## I. What is Mr.Gee? 🧐
 
+Mr.Gee is a combination of a series of prompts 🤖, designed to help you remember complex words, analyze and deconstruct long difficult sentences, and assess the structure of articles 🌐.
 
-Mr. Gee 🎩 is a smart combination of prompts 📝, designed to assist you in memorizing complex words, deconstructing challenging sentences, and analyzing the structure of articles 📚.
+There's a Hamlet in the eyes of a thousand individuals. Likewise, there should be a thousand different word books in the eyes of a thousand people, each with their own unique book of words.
 
-Just like "In a thousand people's eyes, there are a thousand Hamlets", we believe that each person should have their unique vocabulary book 📖. After all, everyone sees and learns the world differently.
+Traditional word books are stereotyped, with English words on the left and native language explanations on the right. However, the long-term consequence of this is a low sensitivity to English. Naturally, the brain would be slower with an English-Chinese-English pathway, so the most effective way is to learn English in English.
 
-Traditional vocabulary books, with English words on one side and translations in your native language on the other, can sometimes lower your sensitivity to English over time. Why not immerse yourself in English by learning English in English?🗣️
+But how could a person with a TOEFL score of 50 and one with a score of 100 use the exact same word explanations to learn? The advantage of Mr.Gee is that it generates word explanations and word memory cards that are tailored to your actual English level and your preferred style of explanation.
 
-But how can someone with a TOEFL score of 50 and another with a score of 100 use the same word explanations? That's where Mr. Gee shines 💡. It offers personalized word explanations and flashcards, catered to your actual English level and your preferred explanation style.
+Imagine the efficiency boost for a student who likes science fiction novels and another who prefers romance novels if they could learn word explanations and examples in their favorite styles.
 
-Whether you're a fan of science fiction 🚀 or romance novels 💕, Mr. Gee can tailor word explanations and example sentences to your preferred styles, turbocharging your learning efficiency.
+For difficult sentences that you don't understand, Mr.Gee can perform deconstructions. Once you're familiar with the symbols, you can directly understand the structure of any complex sentences without needing a tutor to help you analyze them.
 
-For those mind-bending sentences that leave you puzzled, Mr. Gee has your back. It can deconstruct 🔧 them, allowing you to understand the structure without needing a tutor's assistance.
+By building your own personalized word book📖 based on your accumulated words, it guarantees a personalized and engaging learning journey 🎒. You can self-study any language using Mr.Gee through Chat-GPT/Bing/Bard/Claude.
 
-By compiling your words into your very own vocabulary book, it ensures a personalized and thrilling learning journey 🚀. With platforms like Chat-GPT, Bing, Bard, and Claude, you can harness the power of Mr. Gee to learn any language 🌍 on your own.
-
-(Note: Mr. Gee's ability to correct your pronunciation and deconstruct articles is still in the experimental phase 🧪.)
-
+(How Mr.Gee corrects your pronunciation and performs article deconstruction is still in experimentation)
 
 
 
+## II. Why use Mr.Gee? 🎯
 
-## II. Why Use Mr.Gee? 🎯
+Tired of traditional language learning methods? Mr.Gee is here to change the game! 🎲
 
-Frustrated with traditional language learning methods? Mr.Gee is here to change the game! 🎲
-
-1. **Personalized Learning:** Customized learning cards based on your English proficiency and preferences 📘🏞.
+1. **Personalized Learning:** Customized study cards based on your English level and preferences 📘🏞.
    
-2. 
-
-3. **Improved Retention:** Learn relevant vocabulary in combination with your interests, making it easier to remember 🧠💡.
+2. **Easier Word Memorization:** Learn vocabulary related to your interests, making it easier to remember 🧠💡.
    
-4. 
+3. **AI Deconstruction of Complex Sentences:** Deconstruct complex sentences with AI at the touch of a button, from grammar to each component's function in a sentence 🤔🚀.
 
-5. **AI Decomposition of Complex Sentences:** Easily deconstruct complex sentences with the help of AI, from grammar to each item's function in the sentence 🤔🚀.
 
-## III. How to Use Mr.Gee? 📝
 
-Achieve your goals in one fell swoop with Mr.Gee 🥧:
+## III. How to use Mr.Gee? 📝
 
-[Click here](https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde) 🖱 (Make sure you can open chat-gpt)
+Using Mr.Gee is as easy as pie 🥧:
 
-**Step One:** Input your vocabulary, phrasal verbs, or sentences to Mr.Gee 📚.
+[Click here](https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde) 🖱(ensure that you can open chat-gpt)
 
-**Step Two:** Use Mr.Gee to facilitate flexible vocabulary learning and deconstruct complex sentences 📖.
+Or directly copy Mr.Gee-bot.txt into your AI chat box
 
-**Step Three:** Take notes and repeat memorization using Notion, Anki card 🧐.
+**Step One:** Input your words, phrasal verbs, or sentences into Mr.Gee 📚.
 
-**Step Four:** As your knowledge expands, repeat the process with new inputs 🔄.
+**Step Two:** Use Mr.Gee to flexibly remember words and deconstruct complex sentences 📖.
 
-With Mr.Gee, language learning evolves into an exciting personal customization 🌍. Embrace Mr.Gee and watch your language skills soar like never before 🚀. Let's embark on this exciting journey! Happy learning! 🎉
+**Step Three:** Combine the generated answers with Notion, Anki card for note-taking and repetition 🧐.
+
+With Mr.Gee, language learning evolves into an exciting, personalized experience🌍. Mr.Gee boosts your language skills at an unprecedented speed 🚀. Let's embark on this exciting journey! Happy learning!🎉 <br><br>
 
 
 ## Requirements 🛠
