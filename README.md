@@ -5,7 +5,9 @@
     English | <a href="./README-CN.md">中文介绍</a>
 </p>
 <p align="center">
-    <em>You can use Mr.Gee through Chat-GPT/Bing/Bard/Claude to learn any language by yourself. </em>
+    <em>Do you want me to correct and improve this sentence? If so, here's a possible revision:
+
+"Struggling to remember English words, comprehend complex sentences, or grasp the main idea of an article? Have no fear, Mr. Gee is here to help you overcome these obstacles and learn any language on your own."You can use Mr.Gee through Chat-GPT/Bing/Bard/Claude to learn any language by yourself. </em>
 </p>
 
 
