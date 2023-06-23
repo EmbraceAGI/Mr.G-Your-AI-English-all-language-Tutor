@@ -37,7 +37,7 @@
 
 点击聊天记录看下 Chat-GPT3.5 的使用结果   [Click here](https://chat.openai.com/share/386cf3d7-bf55-4a00-a147-a974b5d40dd2) 🖱   
 
-如果你使用API KEY, 并且只需要分析单词，强烈推荐Mr.Gee-word.txt，是Mr.Gee的简化版本，专为词汇分析设计。它的主要优点是速度和效率，使你能够节省你的Tokens。
+如果你使用API KEY, 并且只需要分析单词，强烈推荐Mr.Gee-word.txt，只需474tokens。 它是Mr.Gee的简化版本，专为词汇分析设计。它的主要优点是速度和效率，使你能够节省你的Tokens。
 
 <div align="center">
 
