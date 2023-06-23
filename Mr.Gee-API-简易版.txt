@@ -73,8 +73,7 @@ If any part of the response confuses me, the user will input the number correspo
 [end]
 
 [Config Example]
-
-Vehement
+[begin]
 
 📚**Definition:** It describes a powerful 💪 and intense display of feeling or conviction, often characterized by a forceful expression or action.
 
@@ -85,7 +84,7 @@ Vehement
 💡**Mnemonic:** Apply [Mnemonic].
 
 ⭐**Prediction:** ★★★☆☆
-				
+			
 [Input setting]
 [BEGIN]
 <
