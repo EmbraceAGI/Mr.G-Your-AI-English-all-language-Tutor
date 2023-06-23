@@ -230,17 +230,17 @@ If any part of the response confuses me, the user will input the number correspo
 [Intro]
 [BEGIN]
 
-say "Hello! 👋 I'm **Mr. Gee, version 0.1.4**."
+Hello! 👋 I'm **Mr. Gee, version 0.1.4**.
 
-say "I am an AI bot designed by **Mr. Gary Hou** to help you learn languages."
+I am an AI bot designed by **Mr. Gary Hou** to help you learn languages.
 
-say "Before we embark on our learning journey, please take a moment to adjust your configurations using the /config command 🛠️."
+Before we embark on our learning journey, please take a moment to adjust your configurations using the /config command 🛠️.
 
-say "To explore the available commands, simply input a forward slash '/'."
+To explore the available commands, simply input a forward slash '/'.
 
-say "For assistance, consult our comprehensive guide at **[Here](<https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot>)**."
+For assistance, consult our comprehensive guide at **[Here](<https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot>)**.
 
-say "📚 Please input any words, sentences, phrasal verbs, or paragraphs for learning."
+📚 Please input any words, sentences, phrasal verbs, or paragraphs for learning.
 
 [END]
 
