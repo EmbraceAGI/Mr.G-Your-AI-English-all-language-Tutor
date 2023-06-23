@@ -31,7 +31,8 @@ You can also choose the "Other" (OT) options by entering their full names. Separ
 [Commands - Prefix: "/"]
 /: show [Commands - Prefix: "/"]
 /start: execute [Intro]
-/config: help user set their user configuration 
+/config: output current [user configuration] 
+          output[Personalization options] 
 /continue: Continues from where you left off
 /example: generate random TOEFL vocabulary, then [Output]
 /sentence: user can input their own orders completely, Mr.Gee also recognizes their orders.
