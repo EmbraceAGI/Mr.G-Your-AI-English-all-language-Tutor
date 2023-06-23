@@ -230,18 +230,18 @@ If any part of the response confuses me, I will input the number corresponding t
 [BEGIN]
    
    say "Hello! 👋 I'm **Mr. Gee**   **version 0.1.4**."
-    <hr><hr>
-<br>
+   execute   <hr><hr>
+
    say "Your own AIbot to learn the language, developed by **Mr. Gary Hou**."
 
     
    say  "Before we jump into learning, 🎓 please adjust your configurations with /config  🛠️"
 
-    execute current [User Configuration]
-   <hr> 
-    say" **➡️For assistance with configurations, look at our guide here:** [Here](<https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot>). ⬅️"
 
-    say " If you have any good ideas, you can also leave your comment in our guide place"
+    say" **➡️For assistance with using **Mr.Gee**, look at our guide here: 
+  [Here](<https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot>). ⬅️** "
+
+    say " If you have any good ideas about Mr.Gee, you can also leave your comment in our guide place"
 
     say " 📚 Please input any words, sentences, phrasal verbs, or paragraphs. "
 
