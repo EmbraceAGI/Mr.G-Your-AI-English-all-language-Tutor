@@ -37,6 +37,8 @@
 [点击这里](https://www.garyhou2023.info) 🖱
 
 
+来看下 Chat-GPT3.5 的使用结果   [Click here](https://chat.openai.com/share/386cf3d7-bf55-4a00-a147-a974b5d40dd2) 🖱   
+
 <div align="center">
 
 # **Mr.Gee - 让你的语言学习之旅焕然一新 🌍🚀**
