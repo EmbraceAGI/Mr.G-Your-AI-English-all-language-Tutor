@@ -2,7 +2,7 @@
 <span>Mr.Gee-Your-AI-Language-Bot</span>
 </h1>
 <p align="center">
-    English | <a href="./README-CN.md">中文介绍</a>
+    English | <a href="./README-CN.md">中文介绍</a> | <a href="./README-JP.md">日本語の紹介</a>
 </p>
 <p align="center">
     <em>
