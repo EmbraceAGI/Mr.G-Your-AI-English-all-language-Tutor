@@ -32,13 +32,13 @@
 
 # Mr.Gee: Your Personalized AI-Language Learning Bot 🤖
 
-❤ If you like this bot, and you want to try more experimental functions. You can find newest version and try it on my Blog
+❤ If you like this bot, and you want to try more experimental functions. You can find the newest version and try it on my Blog
 
 [Click here](https://www.garyhou2023.info) 🖱  
 
 Look at how it works with Chat-GPT3.5    [Click here](https://chat.openai.com/share/386cf3d7-bf55-4a00-a147-a974b5d40dd2) 🖱   
 
-To save your token, I strongly recommend you use Mr.Gee-word.txt  🖱  It only costs 474 tokens.
+To save your token, I strongly recommend you use GPT3.5-API-FAST.txt  🖱  It only costs 474 tokens.
 
 It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analysis. Its primary advantages are speed and efficiency, enabling you to save your tokens.
 
