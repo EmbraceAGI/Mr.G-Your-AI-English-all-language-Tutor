@@ -37,7 +37,7 @@
 
 点击聊天记录看下 Chat-GPT3.5 的使用结果   [Click here](https://chat.openai.com/share/befe9930-fe50-4470-9f29-ead30c7f829d) 🖱   
 
-如果你使用API KEY, 并且只需要分析单词，强烈推荐GPT3.5-API-FAST.txt，只需307tokens。 它是Mr.Gee的简化版本，专为词汇分析设计。它的主要优点是速度和效率，使你能够节省你的Tokens。
+如果你使用API KEY, 并且只需要分析单词，强烈推荐GPT3.5-API-FAST.txt，只需307tokens。 它是Mr.Gee的简化版本，专为词汇分析设计。它的主要优点是速度和效率，使你能够节省你的Tokens。记忆法“mnemonic” 的结果和GPT4的普通prompt结果相同，甚至对有些单词如何记忆的方法的创造性超过了GPT4    [Click here](https://chat.openai.com/share/3a9a6c68-f1a2-410a-8f81-358fd06e3630) 🖱
 
 <div align="center">
 
