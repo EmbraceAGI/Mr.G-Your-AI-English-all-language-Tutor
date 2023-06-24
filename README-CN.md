@@ -2,7 +2,7 @@
 <span>Mr.Gee-您的专属AI英语学习机器人</span>
 </h1>
 <p align="center">
-    English | <a href="./README-CN.md">中文介绍</a>
+    English | <a href="./README-CN.md">中文介绍</a> | <a href="./README-JP.md">日本語の紹介</a>
 </p>
 <p align="center">
     <em>英语单词记不住？长难句看不懂？文章抓不住中心？您可以使用Mr.Gee解决这些问题，自学任何语言。让你的GPT3.5 生成GPT4.0一样，甚至超越GPT4.0的回答</em>
