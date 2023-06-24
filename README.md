@@ -42,6 +42,10 @@ To save your token, I strongly recommend you use GPT3.5-API-FAST.txt  🖱  It o
 
 It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analysis. Its primary advantages are speed and efficiency, enabling you to save your tokens. The result of the mnemonic is smart same as GPT 4    [Click here](https://chat.openai.com/share/3a9a6c68-f1a2-410a-8f81-358fd06e3630) 🖱      
 
+
+** You need to be at least A1 level to use this bot**
+
+
 <br>
 
 ## I. What is Mr.Gee? 🧐
