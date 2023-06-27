@@ -28,9 +28,10 @@
 </a>
 </p>
 
-#Key words: 
-AI学英语, 使用Chat-GPT学英语
-英语单词记不住？长难句看不懂？文章抓不住中心？您可以使用Mr.Gee解决这些问题，自学任何语言。让你的GPT3.5 生成GPT4.0一样，甚至超越GPT4.0的回答
+# Key words: 
+“使用AI和ChatGPT学习英语”，"ChatGPT作为AI英语学习工具"，和"ChatGPT英语学习技巧"
+"使用AIとChatGPTで英語を学ぶ", "ChatGPTをAI英語学習ツールとして使用する", "ChatGPT英語学習のテクニック"
+
 
 
 # Mr.Gee: Your Personalized AI-Language Learning Bot 🤖
