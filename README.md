@@ -40,7 +40,7 @@
 
 [Click here](https://www.garyhou2023.info) 🖱  
 
-Look at how it works with Chat-GPT3.5    [Click here](https://chat.openai.com/share/befe9930-fe50-4470-9f29-ead30c7f829d) 🖱   
+Look at how it works with Chat-GPT3.5    [Click here](https://chat.openai.com/share/ac7a769a-696f-447a-b123-a3e8ee585858) 🖱   
 
 To save your token, I strongly recommend you use GPT3.5-API-FAST.txt  🖱  It only costs 474 tokens.
 
