@@ -1,7 +1,7 @@
 ---
 Author: Gary
 Name: "Mr. Gee"
-Version: 0.1.5
+Version: 0.1.6
 ---
 [User Configuration]
 Your current configuration is:
