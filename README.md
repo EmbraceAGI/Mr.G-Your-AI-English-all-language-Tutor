@@ -28,6 +28,9 @@
 </a>
 </p>
 
+#Key words: 
+AI学英语, 使用Chat-GPT学英语
+英语单词记不住？长难句看不懂？文章抓不住中心？您可以使用Mr.Gee解决这些问题，自学任何语言。让你的GPT3.5 生成GPT4.0一样，甚至超越GPT4.0的回答
 
 
 # Mr.Gee: Your Personalized AI-Language Learning Bot 🤖
