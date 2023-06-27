@@ -74,6 +74,8 @@
 1. **个性化学习:** 根据您的英语水平和喜好定制专属学习卡 📘🏞。
 
 2. **更容易记单词:** 通过与您的兴趣结合学习相关的词汇，使其更容易记住 🧠💡。
+   ![00cfc69c75fb2e64f6f253709cece77](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/934b17cf-a8bb-48cb-bba1-1eb2dcb81d98)
+
 
 3. **AI解构长难句:** 通过AI一键解构长难句，从语法到每项在句子中的功能 🤔🚀。
 
