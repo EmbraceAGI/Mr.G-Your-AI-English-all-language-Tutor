@@ -120,9 +120,8 @@ Our language learning approach consists of two methods:
 1. Using Language E (English) to learn E (English) 🇬🇧
 2. Using Language C (Chinese) or D (Dutch) to learn E (English) 🇨🇳🇳🇱
 
-Here is the translation for your Chinese text into English:
 
-"The first method might seem slow, but once you master it, it will be the most powerful mode for language learning 💪. Our goal is to help you use this method, to learn English through English, and improve your language comprehension skills 🎓.
+The first method might seem slow, but once you master it, it will be the most powerful mode for language learning 💪. Our goal is to help you use this method, to learn English through English, and improve your language comprehension skills 🎓.
 
 ## Result
 
