@@ -45,11 +45,9 @@ When you copy the GPT answer into the Anki card,  you will see this :
 
 <img width="646" alt="Screenshot 2023-07-19 at 22 05 39" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/b06b8fc4-a186-4f79-b0b6-59223b279002">
 
-</br>
-Look at how it works with Chat-GPT3.5    
 
-[Click here](https://chat.openai.com/share/ac7a769a-696f-447a-b123-a3e8ee585858) 🖱   
-
+Look at how it works with Chat-GPT3.5  [Click here](https://chat.openai.com/share/ac7a769a-696f-447a-b123-a3e8ee585858) 🖱   
+     
 To save your token, I strongly recommend you use GPT3.5-API-FAST.txt  🖱  It only costs 307 tokens.
 
 It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analysis. Its primary advantages are speed and efficiency, enabling you to save your tokens. The result of the mnemonic is smart same as GPT 4    [Click here](https://chat.openai.com/share/3a9a6c68-f1a2-410a-8f81-358fd06e3630) 🖱      
