@@ -84,6 +84,8 @@ If traditional language learning methods seem tedious to you, Mr.Gee is here to 
    
 2. **Enhanced Word Memorization:** It facilitates the learning of vocabulary connected to your interests, making memorization easier 🧠💡.
 
+   **How to remember "invidious" at first glance?**
+
 ![WechatIMG8](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/8d170c0b-5e94-417b-9dee-57112cbd4040)
 
    
