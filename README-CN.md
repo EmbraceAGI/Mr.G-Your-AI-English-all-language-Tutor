@@ -64,8 +64,14 @@
 
 对于你看不懂的长难句，**Mr.Gee** 可以进行解构，在熟悉了符号之后，所有的长难句你直接可以看懂其结构构成，不需要导师帮你分析长难句。
 
-**Mr.Gee** 可以帮助你根据你的词汇积累成为你专属的单词书📖，它保证了一个个性化且引人入胜的学习旅程 🎒。您可以通过Chat-GPT/Bing/Bard/Claude使用Mr.Gee自学任何语言。导入Anki卡片如下：
+**Mr.Gee** 可以帮助你根据你的词汇积累成为你专属的单词书📖，它保证了一个个性化且引人入胜的学习旅程 🎒。您可以通过Chat-GPT/Bing/Bard/Claude使用Mr.Gee自学任何语言。
+
+
+ **如何第一眼记住 "invidious"？导入Anki卡片如下：**
+
 ![WechatIMG8](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/8d170c0b-5e94-417b-9dee-57112cbd4040)
+
+
 
 
 
@@ -82,9 +88,6 @@
 2. **更容易记单词:** 通过与您的兴趣结合学习相关的词汇，使其更容易记住 🧠💡。
    ![00cfc69c75fb2e64f6f253709cece77](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/934b17cf-a8bb-48cb-bba1-1eb2dcb81d98)
    
- **如何第一眼记住 "invidious" ?**
-
-![WechatIMG8](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/8d170c0b-5e94-417b-9dee-57112cbd4040)
 
 3. **AI解构长难句:** 通过AI一键解构长难句，从语法到每项在句子中的功能 🤔🚀。
 
