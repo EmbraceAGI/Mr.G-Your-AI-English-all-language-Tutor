@@ -33,10 +33,10 @@
 
 
 如果您喜欢这个机器人，欢迎fork/star, 保持更新。如果您想要尝试更多实验功能，您可以在我的博客上找到最新版本并试用。[点击这里](https://www.garyhou2023.info) 🖱
-<br>
+</br>
 将结果导入Anki你可以制作如下卡片，让你一次性记住难单词
 <img width="646" alt="Screenshot 2023-07-19 at 22 05 39" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/b06b8fc4-a186-4f79-b0b6-59223b279002">
-<br>
+</br>
 
 点击聊天记录看下 Chat-GPT3.5 的使用结果   [Click here](https://chat.openai.com/share/ac7a769a-696f-447a-b123-a3e8ee585858) 🖱   
 
