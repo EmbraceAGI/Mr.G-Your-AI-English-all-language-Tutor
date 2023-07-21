@@ -85,6 +85,8 @@ API KEYを使用し、単語の分析だけが必要な場合、GPT3.5-API-FAST.
 
 
 ![WechatIMG12](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/2d1bb39a-465f-445b-abdb-7b72cce1f005)
+
+
 3. **AIによる長い難解な文章の解構:** AIによるワンクリックで長い難解な文章を解構し、文法から文中の各項目の機能まで 🤔🚀。
 
 ## **III. Mr.Geeの使い方は？📝**
