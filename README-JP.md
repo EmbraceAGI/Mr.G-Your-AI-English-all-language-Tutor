@@ -74,6 +74,17 @@ API KEYを使用し、単語の分析だけが必要な場合、GPT3.5-API-FAST.
 
 1. **パーソナライズされた学習:** あなたの英語のレベルと好みに基づいてパーソナライズされた学習カードを作成します 📘🏞。
 2. **単語を覚えやすい:** あなたの興味と関連する語彙を学ぶことで、それらを覚えやすくします 🧠💡。
+
+
+ **如何第一眼记住 "invidious"？导入Anki卡片如下：**
+
+![WechatIMG8](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/8d170c0b-5e94-417b-9dee-57112cbd4040)
+
+
+**或者导入手机Anki**
+
+
+![WechatIMG12](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/2d1bb39a-465f-445b-abdb-7b72cce1f005)
 3. **AIによる長い難解な文章の解構:** AIによるワンクリックで長い難解な文章を解構し、文法から文中の各項目の機能まで 🤔🚀。
 
 ## **III. Mr.Geeの使い方は？📝**
