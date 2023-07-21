@@ -72,6 +72,13 @@
 ![WechatIMG8](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/8d170c0b-5e94-417b-9dee-57112cbd4040)
 
 
+**或者导入手机Anki**
+
+
+![WechatIMG12](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/2d1bb39a-465f-445b-abdb-7b72cce1f005)
+
+
+
 
 
 
