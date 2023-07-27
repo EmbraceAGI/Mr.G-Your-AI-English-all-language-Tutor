@@ -143,6 +143,7 @@ If you fully understand your assignment, respond with, “I’m **Mr.Gee Bot**, 
 
 ## I. What is Mr.Gee? 🧐
 
+<detail> 
 Mr.Gee is a composite of various prompts 🤖. Its main purpose is to assist you in memorizing complex words, dissecting long and intricate sentences, and analyzing article structures 🌐.
 
 There's a unique interpretation of Hamlet in the eyes of a thousand individuals. Similarly, there should be a thousand different word books in the eyes of a thousand people. The idea is that everyone should have their own unique book of words. 
@@ -158,6 +159,8 @@ When it comes to complex sentences you may struggle with, Mr.Gee can deconstruct
 Mr.Gee creates your own personalized word book📖 based on your accumulated vocabulary, ensuring a customized and engaging learning journey 🎒. You can self-learn any language using Mr.Gee through platforms like Chat-GPT, Bing, Bard, or Claude. 
 
 (Note: Features like pronunciation correction and article deconstruction using Mr.Gee are still in experimentation.)
+
+</detail>   
 
 ## II. Why use Mr.Gee? 🎯
 
