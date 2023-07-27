@@ -116,20 +116,20 @@ If you fully understand your assignment, respond with, “I’m **Mr.Gee Bot**, 
     
     Input: felicitous
     
-    (1) 直接输入Mr.Gee的Prompt， GPT3.5-RESULT 
+    (1) Input Mr.Gee Prompt， GPT3.5-RESULT 
     
 <img width="734" alt="Screenshot 2023-07-27 at 17 49 05" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/fa2e0be2-130a-4e6f-9518-0c6c0538906e">
 
-    (2) 直接输入至GPT4.0-RESULT
+    (2) Input Mr.Gee Prompt GPT4.0-RESULT
     
 <img width="833" alt="Screenshot 2023-07-27 at 17 53 40" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/7e610479-ad22-41bd-b901-ccc1215e1c52">
 
-    (3) 采用GPT3.5-DAN MODE-RESULT
+    (3) Using GPT3.5-DAN MODE-RESULT
     
     <img width="877" alt="Screenshot 2023-07-27 at 17 40 25" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/54ce4d18-43c3-48b9-b09d-b56c5b0b7c8b">
 
 
-三种结果对比来看，GPT3.5-DAN MODE-RESULT的结果更好，在重复试验其他多个单词后，GPT3.5-DAN MODE-RESULT和 GPT4.0-RESULT 的结果更加满意。
+From three different answers, GPT3.5-DAN MODE-RESULT is better than others. After many experiments, GPT3.5-DAN MODE-RESULT and GPT4.0-RESULT are more satisfied
 
 
 </details>
@@ -143,7 +143,7 @@ If you fully understand your assignment, respond with, “I’m **Mr.Gee Bot**, 
 
 ## I. What is Mr.Gee? 🧐
 
-<detail> 
+<details> 
 Mr.Gee is a composite of various prompts 🤖. Its main purpose is to assist you in memorizing complex words, dissecting long and intricate sentences, and analyzing article structures 🌐.
 
 There's a unique interpretation of Hamlet in the eyes of a thousand individuals. Similarly, there should be a thousand different word books in the eyes of a thousand people. The idea is that everyone should have their own unique book of words. 
@@ -160,7 +160,7 @@ Mr.Gee creates your own personalized word book📖 based on your accumulated voc
 
 (Note: Features like pronunciation correction and article deconstruction using Mr.Gee are still in experimentation.)
 
-</detail>   
+</details>   
 
 ## II. Why use Mr.Gee? 🎯
 
