@@ -121,7 +121,7 @@ If you fully understand your assignment, respond with, “I’m **Mr.Gee Bot**, 
 
     (3) 采用GPT3.5-DAN MODE-RESULT
     
-    <img width="877" alt="Screenshot 2023-07-27 at 17 40 25" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/54ce4d18-43c3-48b9-b09d-b56c5b0b7c8b">
+<img width="877" alt="Screenshot 2023-07-27 at 17 40 25" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/54ce4d18-43c3-48b9-b09d-b56c5b0b7c8b">
 
 
 三种结果对比来看，GPT3.5-DAN MODE-RESULT的结果更好，在重复试验其他多个单词后，GPT3.5-DAN MODE-RESULT和 GPT4.0-RESULT 的结果更加满意。
