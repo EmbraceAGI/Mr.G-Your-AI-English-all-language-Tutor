@@ -106,7 +106,23 @@ If you fully understand your assignment, respond with, “I’m **Mr.Gee Bot**, 
 
 </details>
 
+<details>
+    <summary> 3.输入单词GTP3.5/GPT4.0/GPT-3.5DANMODE</summary>
+    Input: felicitous
+    (1) 直接输入Mr.Gee, GPT3.5-RESULT
+<img width="734" alt="Screenshot 2023-07-27 at 17 49 05" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/fa2e0be2-130a-4e6f-9518-0c6c0538906e">
 
+    (2) GPT4.0-RESULT
+<img width="833" alt="Screenshot 2023-07-27 at 17 53 40" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/7e610479-ad22-41bd-b901-ccc1215e1c52">
+
+    (3) GPT3.5-DAN MODE-RESULT
+    <img width="877" alt="Screenshot 2023-07-27 at 17 40 25" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/54ce4d18-43c3-48b9-b09d-b56c5b0b7c8b">
+
+
+三种结果对比来看，GPT3.5-DAN MODE-RESULT的结果更好，在重复试验其他多个单词后，GPT3.5-DAN MODE-RESULT和 GPT4.0-RESULT 的结果更加满意。
+
+
+</details>
 
 
 <div align="center">
