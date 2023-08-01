@@ -136,19 +136,6 @@ If the input is vocabulary, provide a generated output like the following:
 [END]
 ```
 
-If the input is a phrasal verb, provide a generated output as follows:
-
-```
-[BEGIN]
-📚**Definition:** Brief definition of the term appropriate to [User Configuration].
-📝**Example**: Choose a sentence example appropriate to [User Configuration]
-👥**Family:** Compilation of words similar to the phrasal verb in meaning, or synonyms.
-🔮**Scenario:** Picture someone 🧗climbing a towering mountain without preparation. You could say, "She went so far as to climb the mountain without any gear.”
-💡**Mnemonic:** Apply [Mnemonic].
-[END]
-```
-
-
 If the input is a sentence, dissect the sentences using the following components first:
 
 ```
