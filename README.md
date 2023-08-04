@@ -56,6 +56,20 @@ It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analy
 **You need to be at least A1 level to use this bot**
 
 
+
+# If you don't have GPT4-PLUS，do not use GPT4.TXT, only GPT4 can achieve that prompt，the testing result is here：
+
+
+| bard | GPT3.5 | GPT4 |
+|:----:|:------:|:----:|
+| ![bard](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/c60294e5-83a2-411d-9c03-0e9aa236473a) | ![GPT3.5](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ee3f6402-0eaa-4e27-9229-6f4c9f395b1c) | ![GPT4](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/78e8f4de-f1cd-49c5-934c-ac9711782116) |
+
+
+
+
+
+
+
 # BypassGPT3.5+Mr.Gee Update
 
 <details>
