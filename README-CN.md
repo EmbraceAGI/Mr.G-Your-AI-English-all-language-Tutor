@@ -48,6 +48,13 @@
 
 在使用该BOT前请确保你的英语水平达到至少A1的水平，这样才用英语学习英语。
 
+# 如果没有GPT4-PLUS会员，不要使用GPT4.TXT, 只有GPT4能达到测试结果，测试结果如下：
+
+
+| bard | GPT3.5 | GPT4 |
+|:----:|:------:|:----:|
+| ![bard](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/c60294e5-83a2-411d-9c03-0e9aa236473a) | ![GPT3.5](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ee3f6402-0eaa-4e27-9229-6f4c9f395b1c) | ![GPT4](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/78e8f4de-f1cd-49c5-934c-ac9711782116) |
+
 
 
 # 更新特殊功能  ---解锁GPT越狱模式+Mr.Gee
