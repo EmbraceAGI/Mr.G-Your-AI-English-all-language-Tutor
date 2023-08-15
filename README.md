@@ -208,7 +208,20 @@ Alternatively, you can directly copy Mr.Gee-bot.txt into your AI chat box
 With Mr.Gee, language learning becomes an exciting personalized journey🌍. Mr.Gee facilitates a rapid enhancement of your language skills like never before 🚀. Let's embark on this thrilling journey! Here's to enjoyable and effective learning!🎉
 
 
+## How does the mnemonic function work?
+The mnemonic function in the JSON format provided works by breaking down the term into components that resemble familiar words or phrases, and then visualizing a conversation among three experts discussing the best method to memorize the term.
 
+1. **Breaking Down the Term**: The term is divided into components that may sound like familiar words or phrases, making them easier to remember.
+
+2. **Visualizing a Conversation**: Three experts discuss different ways to associate the term with familiar concepts, using imagery, analogies, or associations.
+
+3. **Shared Thought Process**: Each expert contributes steps to their thought process, sharing it with the group.
+
+4. **Elimination of Incorrect Interpretations**: If any expert realizes that their interpretation is incorrect, they are removed from the conversation.
+
+5. **Creation of a Vivid Image or Story**: The conversation between experts leads to the creation of a vivid image or story that helps the user remember the term.
+
+The mnemonic method is designed to engage various cognitive processes, such as association and visualization, making the learning of complex terms or concepts more engaging and memorable.
 
 
 <br><br>
