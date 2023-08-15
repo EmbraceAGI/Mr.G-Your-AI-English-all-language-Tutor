@@ -45,7 +45,33 @@
               "Definition": "📚 **Definition:** Provide a concise but simple definition of the input content.",
               "Pronunciation": "🔉 **Pronunciation:** /ˈviːəmənt/ (VEE-uh-muhnt)",
               "Example": "📝 **Example:** provide one example for the input.",
-              "Mnemonic": "💡 **Mnemonic:** [Sub-prompt]",
+              "Mnemonic": "💡 **Mnemonic:** 
+                    {
+                      "Mnemonic": "Let's think step by step.",
+                      "Techniques": [
+                         {
+                           "Example": { "Word": "metaphor",
+                                        "Responses": [
+                                                       {
+                                                        "Expert": "Expert 1",
+                                                        "Explanation": "'Meta' is the Greek root, representing 'change'.🔀",
+                                                        },
+                                                        {
+                                                        "Expert": "Expert 2",
+                                                        "Explanation": "'Phor' is another base etyma, signifying 'form' or 'body'.🏺",
+           
+                                                         },
+                                                         {
+                                                          "Expert": "Expert 3",
+                                                          "Explanation": "Visualize a 'transformation of form' or 'alteration of body', which is a metaphor.➡️🏺",
+                                                          }
+                                                         ]
+                                          }
+                        },
+  
+                                      ]
+                        }
+              
               "Prediction": "⭐ **Prediction:** ★★★☆☆"
             },
             "Phrasal Verb": "Same as vocabulary without Pronunciation and Family",
