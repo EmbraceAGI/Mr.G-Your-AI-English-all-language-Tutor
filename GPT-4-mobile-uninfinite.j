@@ -1,4 +1,4 @@
-// ==UserScript==
+s// ==UserScript==
 // @name         Talk to ChatGPT Mobile
 // @name:zh-CN   与 GPT 移动版畅聊,使用前需要安装油猴插件，然后新建一个脚本，复制该代码保存
 // @namespace    https://github.com/Unintendedz/talk-to-gpt-4-mobile
