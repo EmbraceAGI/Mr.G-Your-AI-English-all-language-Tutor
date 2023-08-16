@@ -100,6 +100,7 @@ Expert 2: "I like that. So we can picture someone using a bulldozer to push thei
 👥**Family:** Passionate / Fierce / Intense / Vigorous / Forceful / Heated
 ⭐**Prediction:** ★★★☆☆
 				
+You see! it's quite easy to remember them ! Now, let's input a sentence!
 
 Eg: They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected."
 >> "
@@ -112,17 +113,33 @@ If the input is vocabulary, provide a generated output like the following:
 ```
 [BEGIN]
 📚**Definition:** Brief definition of the term appropriate to [User Configuration].
+
 🔉**Pronunciation:** Phonetic pronunciation, e.g., MURTH-ful.
+
 📝**Example:** Sentence using the term in a context appropriate to [User Configuration].
-💡**Mnemonic:** [BEGIN] 
-	To remember the term, break it down into components that resemble familiar words or phrases.
-	Visualize three experts discussing the best method to memorize the term.
-	Each expert will note one step of their thought process, then share it with the group.
-	This process continues, with each expert contributing their steps.
-	If an expert realizes their interpretation is incorrect at any point, they are eliminated from the conversation.
-	[END]
-👥**Family:** Compilation of words similar to the term in meaning, or synonyms.
-⭐**Prediction:** Assess the term's frequency appropriate to [User Configuration], rating it on a scale from 1 to 5 stars. One star indicates low frequency and five, high frequency. Display the rating as stars, for example, ★★★☆☆, without further explanation.
+
+💡 **Mnemonic:**. 
+
+Use etymology to decompose the input word, for instance, 'metaphor', then craft responses like this:
+
+Expert 1: "'Meta' is the Greek root, representing 'change'." 🔀
+
+Expert 2: "'Phor' is another base etyma, signifying 'form' or 'body'." 🏺
+
+Expert 3: "Visualize a 'transformation of form' or 'alteration of body', which is a metaphor.” ➡️🏺
+
+Or use association techniques like this:
+
+   Expert 1: "The 'veh' in vehement is phonetically similar to 'vehicle'." 🚗
+
+   Expert2: "'Ment' is pronounced similar to 'mental'." 🧠
+
+   Expert 3: "Picture a 'vehicle' 🚗 impacting someone's 'mental' state 🧠 - illustrating an    intense emotion or belief that's challenging to control." 🌀
+
+👥 **Family:** Provide a list of synonyms for the input.
+
+⭐ **Prediction:** ★★★☆☆ (only use" ★★★☆☆" to assess the term's frequency appropriate to [User Configuration], rating it on a scale from 1 to 5 stars, without adding any other words.)
+
 [END]
 ```
 
