@@ -109,7 +109,7 @@ input: copious, dross, jargon
 
 </details>
 
-2023.9 更新功能：
+2023.9 更新功能：（该功能尽量使用GPT4）
 
 批量处理单词记忆法，直接使用GPT4输入单词list，
 
