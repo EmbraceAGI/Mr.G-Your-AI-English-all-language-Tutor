@@ -49,4 +49,6 @@ Your Output example and format = {
 ---
 
 }
-input: copious, dross, jargon
+
+
+input: copious, dross, jargon (input your vocabulary list)
