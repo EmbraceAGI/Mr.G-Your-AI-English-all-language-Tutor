@@ -1,4 +1,3 @@
----
 **➡️Vocabulary:** Aberrant  
 **📚 Definition:** Deviating from what is normal or acceptable; atypical.  
 **🔉 Pronunciation:** /əˈberənt/ (**A**-berr-uhnt)  
