@@ -30,7 +30,8 @@
 
 # [Demo Website](www.unilux.icu/posts/gre/)
 ## Demo result:(analyze a list of vocabularies and automatically using different mnemonics)
-Cosmology
+**Cosmology**
+
 📚 Definition: The study of the origin, structure, and future of the universe.
 
 🔉 Pronunciation: /kɒzˈmɒlədʒi/ (**koz-MOL-uh-jee**)
@@ -43,7 +44,8 @@ Cosmology
 
 ⭐ Prediction: ★★☆☆☆
 
-Craven
+**Craven**
+
 📚 Definition: Extremely cowardly.
 
 🔉 Pronunciation: /ˈkreɪvən/ (**KRAY-vuhn**)
@@ -56,7 +58,8 @@ Craven
 
 ⭐ Prediction: ★★★☆☆
 
-Decorum
+**Decorum**
+
 📚 Definition: Proper and polite behavior.
 
 🔉 Pronunciation: /dɪˈkɔːrəm/ (**di-KOR-uhm**)
