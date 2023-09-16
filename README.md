@@ -231,20 +231,12 @@ Mr.Gee creates your own personalized word book📖 based on your accumulated voc
 
 </details>   
 
-## II. Why use Mr.Gee? 🎯
 
-If traditional language learning methods seem tedious to you, Mr.Gee is here to revolutionize the process! 🎲
 
-1. **Personalized Learning:** It tailors study cards to your English level and personal preferences 📘🏞.
-   
-2. **Enhanced Word Memorization:** It facilitates the learning of vocabulary connected to your interests, making memorization easier 🧠💡.
 
-   **How to remember "invidious" at first glance?**
 
-![WechatIMG8](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/8d170c0b-5e94-417b-9dee-57112cbd4040)
 
-   
-3. **AI-assisted Sentence Deconstruction:** With just a click, it deconstructs complex sentences from the grammatical level to individual components within a sentence 🤔🚀.
+
 
 ## III. How to use Mr.Gee? 📝
 
