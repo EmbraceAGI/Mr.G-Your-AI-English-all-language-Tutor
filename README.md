@@ -28,7 +28,7 @@
 </a>
 </p>
 
-# [Demo Website](www.unilux.icu/posts/gre/)
+# [Demo Website](https://www.unilux.icu/posts/gre/)
 ## Demo result:(analyze a list of vocabularies and automatically using different mnemonics)
 **Cosmology**
 
