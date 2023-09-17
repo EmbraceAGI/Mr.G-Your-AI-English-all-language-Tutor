@@ -27,6 +27,53 @@
 </a>
 </p>
 
+# [Demo Website](https://www.unilux.icu/posts/gre/)
+## 演示结果：（分析词汇列表并自动使用不同的记忆法）
+**Cosmology**
+
+📚 Definition: The study of the origin, structure, and future of the universe.
+
+🔉 Pronunciation: /kɒzˈmɒlədʒi/ (**koz-MOL-uh-jee**)
+
+📝 Example: The Big Bang theory is a cornerstone in cosmology.
+
+💡 Mnemonic: “Cosmo-” (Universe) + “-logy” (Study). Think of a cosmos flower in a lab coat studying the universe. 🌸🔭
+
+👥 Family: Universe, astronomy, astrophysics
+
+⭐ Prediction: ★★☆☆☆
+
+**Craven**
+
+📚 Definition: Extremely cowardly.
+
+🔉 Pronunciation: /ˈkreɪvən/ (**KRAY-vuhn**)
+
+📝 Example: The craven soldier deserted his post.
+
+💡 Mnemonic: “Craven” sounds like “cave in.” Imagine someone caving in under pressure. 😱🏚️
+
+👥 Family: Cowardly, timid, pusillanimous
+
+⭐ Prediction: ★★★☆☆
+
+**Decorum**
+
+📚 Definition: Proper and polite behavior.
+
+🔉 Pronunciation: /dɪˈkɔːrəm/ (**di-KOR-uhm**)
+
+📝 Example: She acted with decorum at the formal event.
+
+💡 Mnemonic: “Deco-” like “decorate,” “rum” like “room.” Decorate the room with politeness. 🎨🍸
+
+👥 Family: Propriety, etiquette, manners
+
+⭐ Prediction: ★★☆☆☆
+
+
+
+
 
 
 # Mr.Gee: 您的定制AI语言学习机器人 🤖
