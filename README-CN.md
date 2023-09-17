@@ -28,7 +28,7 @@
 </p>
 
 # [Demo Website](https://www.unilux.icu/posts/gre/)
-## 演示结果：（分析词汇列表并自动使用不同的记忆法）
+## 演示结果：（分析词汇列表并自动使用不同的记忆法--词根记忆、联想记忆、发音记忆
 **Cosmology**
 
 📚 Definition: The study of the origin, structure, and future of the universe.
