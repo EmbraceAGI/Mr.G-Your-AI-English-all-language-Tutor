@@ -83,13 +83,13 @@
 ⭐ Prediction: ★★☆☆☆
 
 </details>
-</br>
+
 ---
+
 **When you copy the GPT answer into the Anki card, you will see this:**
 
 <img width="646" alt="Screenshot 2023-07-19 at 22 05 39" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/b06b8fc4-a186-4f79-b0b6-59223b279002">
 
-Choose prompt that you need inside the /prompts file.   
 
 ## Friendly Notice
 
@@ -151,7 +151,7 @@ if you are using GPT3.5 API key , to help you save your token, you can use "GPT3
 if you have GPT-4-PLus, you can unlock all the prompt and enjoy it.
 
 
-**Step One:** Input  Mr.G  prompt according your need.📚.
+**Step One:** Choose prompt that you need inside the /prompts file, then input  Mr.G  prompt according your need.📚.
 
 **Step Two:** Input your vocabulary you cannot remember, phrasal verbs and  sentences that you don't understand, or even pharagraph 📖.
 
