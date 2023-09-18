@@ -99,6 +99,8 @@ Choose prompt that you need inside the /prompts file.
 
 **please try not not to use GPT4 prompts without plus account, only GPT4 can achieve that relevant GPT4 prompt，here is the testing result as you can see：**
 
+**Note-taking tools: Anki, Notion, or Obsidian (highly recommended). restore your results and upload it in here become our contributor!**
+
 
 | bard | GPT3.5 | GPT4 |
 |:----:|:------:|:----:|
@@ -202,8 +204,21 @@ From three different answers, GPT3.5-DAN MODE-RESULT is better than others. Afte
 
 
 ## How does the mnemonic function work?
-The mnemonic function in the JSON format provided works by breaking down the term into components that resemble familiar words or phrases, and then visualizing a conversation among three experts discussing the best method to memorize the term.
 
+
+**Mechanism 🧩**
+
+Our language learning approach consists of two methods:
+
+1. Using Language E (English) to learn E (English) 🇬🇧
+2. Using Language C (Chinese) or D (Dutch) to learn E (English) 🇨🇳🇳🇱
+
+The first method might seem slow, but once you master it, it will be the most powerful mode for language learning 💪. Our goal is to help you use this method, to learn English through English, and improve your language comprehension skills 🎓.
+
+Here, we are using method2, build your English mind!
+
+<details>
+    <summary>how does it help us to remember faster?</summary>
 
 1. **Breaking Down the Term**: The term is divided into components that may sound like familiar words or phrases, making them easier to remember.
 
@@ -216,30 +231,9 @@ The mnemonic function in the JSON format provided works by breaking down the ter
 5. **Creation of a Vivid Image or Story**: The conversation between experts leads to the creation of a vivid image or story that helps the user remember the term.
 
 The mnemonic method is designed to engage various cognitive processes, such as association and visualization, making the learning of complex terms or concepts more engaging and memorable.
+</details>
 
 
-<br><br>
-
-
-## Requirements 🛠
-
-To get started, you'll need:
-
-- Note-taking tools: Anki, Notion, or Obsidian (highly recommended). You can also use other platforms like OneNote if you prefer 🗒.
-- AI bots: ChatGPT 4, ChatGPT 3.5 (Turbo or Claude+), Midjourney, or Firefly(wait) 🤖.
-- AI Desktop: Chatbox, (strongly recommended), using API key will be more convenient.
-
-
-
-## Mechanism 🧩
-
-Our language learning approach consists of two methods:
-
-1. Using Language E (English) to learn E (English) 🇬🇧
-2. Using Language C (Chinese) or D (Dutch) to learn E (English) 🇨🇳🇳🇱
-
-
-The first method might seem slow, but once you master it, it will be the most powerful mode for language learning 💪. Our goal is to help you use this method, to learn English through English, and improve your language comprehension skills 🎓.
 
 
 
@@ -250,7 +244,8 @@ The first method might seem slow, but once you master it, it will be the most po
 <details>
   <summary>  Browser-version-usage </summary>
     
-## Ajust your configuration.
+**1.Ajust your configuration.**
+
 **Input:/config**
 
 Here is the table version:
@@ -318,7 +313,7 @@ Output:
 
 How to adjust the result
 
-## Commands
+1. Commands
 
 All commands should be prefixed with a forward slash ("/").
 
@@ -329,9 +324,8 @@ All commands should be prefixed with a forward slash ("/").
 - `/language [language]`: Changes the language you want to learn. For example: `/language Chinese`
 - `/example`: Demonstrates a configuration example
 
-</details>
 
-## Feedback and Clarification
+2.Feedback and Clarification
 
 - If you're unsatisfied with any part of the response, prefix your feedback with one of the following: `/d-`, `/p-`, `/e-`, `/m-`, `/f-`, etc. This will generate five or more alternative options. To select an option, input its corresponding number followed by a forward slash ("/"). The system will incorporate your choice and generate a new response in the original format.
 
