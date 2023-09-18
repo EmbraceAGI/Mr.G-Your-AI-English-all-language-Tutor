@@ -2,15 +2,11 @@
 
 name: Update README Table of Contents
 
-# Controls when the workflow will run
 on:
   push:
     branches:
       - main # Modify this to match your repository's main branch
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   update-toc:
     runs-on: ubuntu-latest
@@ -19,10 +15,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Install Node.js
+      - name: Use Node.js 16.x
         uses: actions/setup-node@v2
         with:
-          node-version: '14' # Modify this to match your desired Node.js version
+          node-version: '16' # Use Node.js version 16
 
       - name: Install markdown-toc
         run: npm install -g markdown-toc
