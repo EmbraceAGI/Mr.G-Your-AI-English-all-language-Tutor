@@ -76,22 +76,20 @@
 ⭐ Prediction: ★★☆☆☆
 
 </br>
-
+---
 **When you copy the GPT answer into the Anki card, you will see this:**
 
 <img width="646" alt="Screenshot 2023-07-19 at 22 05 39" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/b06b8fc4-a186-4f79-b0b6-59223b279002">
 
+Choose prompt that you need inside the /prompts file.   
 
-Look at how it works with Chat-GPT3.5  [Click here](https://chat.openai.com/share/ac7a769a-696f-447a-b123-a3e8ee585858) 🖱   
-     
-To save your token, I strongly recommend you use GPT3.5-API-FAST.txt  🖱  It only costs 307 tokens.
+## Friendly Notice
 
-It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analysis. Its primary advantages are speed and efficiency, enabling you to save your tokens. The result of the mnemonic is smart same as GPT 4    [Click here](https://chat.openai.com/share/3a9a6c68-f1a2-410a-8f81-358fd06e3630) 🖱      
+**You need to be at least A1 level to use this series of prompts**
 
+**If you don't have GPT4-PLUS，you can also use the results that I stored in /GRE  /TOEFL ...**
 
-**You need to be at least A1 level to use this bot**
-
-**If you don't have GPT4-PLUS，please try not not to use GPT4 prompts, only GPT4 can achieve that prompt，here is the testing result as you can see：**
+**please try not not to use GPT4 prompts without plus account, only GPT4 can achieve that relevant GPT4 prompt，here is the testing result as you can see：**
 
 
 | bard | GPT3.5 | GPT4 |
