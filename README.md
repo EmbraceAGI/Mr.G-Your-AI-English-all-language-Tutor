@@ -160,6 +160,7 @@ if you have GPT-4-PLus, you can unlock all the prompt and enjoy it.
 
 # New Functions You may wanna try
 
+
 ## G-GPT4.md --Group vocabs Processing [Update]
 
 
