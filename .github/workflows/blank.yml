@@ -1,0 +1,39 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Update README Table of Contents
+
+# Controls when the workflow will run
+on:
+  push:
+    branches:
+      - main # Modify this to match your repository's main branch
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  update-toc:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14' # Modify this to match your desired Node.js version
+
+      - name: Install markdown-toc
+        run: npm install -g markdown-toc
+
+      - name: Update Table of Contents
+        run: markdown-toc -i README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README table of contents"
+          git push
