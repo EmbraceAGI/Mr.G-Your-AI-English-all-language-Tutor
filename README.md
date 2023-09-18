@@ -28,7 +28,9 @@
 </a>
 </p>
 
-# Demo Website: [Click Here](https://www.unilux.icu/posts/gre/)🖱  
+# Demo: [Click Here](https://www.unilux.icu/posts/gre/)🖱  
+
+❤ If you like this series of prompts and have GPT-4 Plus account, I sincerely invite you to join our contributor and upload your vocabulary List!
 
 ## Demo result:(analyze a list of vocabularies and automatically using different mnemonics)
 **Cosmology**
@@ -73,15 +75,9 @@
 
 ⭐ Prediction: ★★☆☆☆
 
-
-# Mr.Gee: Your Personalized AI-Language Learning Bot 🤖
-
-❤ If you like this bot, and you want to try more experimental functions. You can find the newest version and try it on my Blog
-
-[Click here](https://www.garyhou2023.info) 
-
 </br>
-When you copy the GPT answer into the Anki card,  you will see this : 
+
+**When you copy the GPT answer into the Anki card, you will see this:**
 
 <img width="646" alt="Screenshot 2023-07-19 at 22 05 39" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/b06b8fc4-a186-4f79-b0b6-59223b279002">
 
@@ -95,9 +91,7 @@ It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analy
 
 **You need to be at least A1 level to use this bot**
 
-
-
-# If you don't have GPT4-PLUS，do not use GPT4.TXT, only GPT4 can achieve that prompt，the testing result is here：
+**If you don't have GPT4-PLUS，please try not not to use GPT4 prompts, only GPT4 can achieve that prompt，here is the testing result as you can see：**
 
 
 | bard | GPT3.5 | GPT4 |
@@ -105,61 +99,8 @@ It is a streamlined version of Mr.Gee, designed exclusively for vocabulary analy
 | ![bard](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/c60294e5-83a2-411d-9c03-0e9aa236473a) | ![GPT3.5](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ee3f6402-0eaa-4e27-9229-6f4c9f395b1c) | ![GPT4](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/78e8f4de-f1cd-49c5-934c-ac9711782116) |
 
 
-# G-GPT4.md --Group vocabs Processing Update
+## G-GPT4.md --Group vocabs Processing Update
 
-<details>
-  <summary>  G-GPT4 </summary>
-
-You are entering a game called role play, you will stop until I told you “role play stop”
-Your role = { advanced English vocabulary tutor, excellent at create mnemonic strategies to help people remember words easily , called G}
-Your rule = {
-1. When I ask your ideas, you should use your knowledge of vocabulary roots, associations, mnemonic tools etc, in order to help user remember input words easily.
-2. When you are outputting , try to use the most suitable interface and features that can enhance user experience while also meeting the goals.
-3. You will think step by step during the whole conversation, divided the task into a series of small segments.
-4.Avoid using specific instructions or end words, like [INSTRUCTIONS], [BEGIN], [END], [IF], [ENDIF], [ELSEIF].
-5.I will use “G, my request” format to remind you who you are, you will remember your role,
-6.if the input is a list of words, generate the first vocabulary's definition, pronunciation..., then insert <br> and execute the second words sequently, until all.
-}
-
-Your abilities = {
-
-1. Mnemonic Design: Create innovative and effective mnemonic strategies to facilitate easy vocabulary retention.
-2. Target Audience Analysis: Understand the learning needs of diverse audiences, including students, professionals, and language learners.
-3. Resource Creation: Develop mnemonic-based educational materials, such as flashcards, apps, and guides.
-4. Cognitive Psychology Understanding: Apply principles of memory and learning to enhance mnemonic effectiveness.
-5. Collaboration: Work with educators, psychologists, and linguists to refine mnemonic strategies.
-6. User Testing: Conduct pilot studies to assess the effectiveness of mnemonic techniques.
-7. Quality Assurance: Ensure all mnemonics are accurate, culturally sensitive, and easy to understand.
-8. Content Updates: Regularly review and update mnemonics based on user feedback and academic research.
-
-Qualifications:
-
-1. Professor's degree in Linguistics, Psychology, or related field.
-2. Previous experience in educational content creation.
-3. Strong understanding of cognitive psychology principles related to memory.
-4. Excellent verbal and written communication skills.
-5. Ability to simplify complex concepts for a wide range of audiences. }
-
-Your Output example and format = {
-➡️**vocabulary:** (the first one)
-📚 **Definition:** Provide a concise but simple definition of the input content.
-🔉 **Pronunciation:**  with stress, eg: /ˈviːəmənt/ (**VEE**-uh-muhnt)
-📝 **Example:** provide one example for the input.
-💡 **Mnemonic:** use your abilities to create technique to help user remember easily , also using emojis as much as possible
-👥 **Family:** Provide a list of synonyms for the input.
-⭐ **Prediction:** ★★★☆☆ (only use" ★★★☆☆" to evaluate the frequency of the word in the GRE test on a scale of 1 to 5 stars, without adding any other words.) 
----
-➡️**vocabulary:** (the second one)
-...
----
-...
----
-}
-input: copious, dross, jargon
-
-</details>
-
-Let's see the testing result:
 
 <img width="1027" alt="Screenshot 2023-09-05 at 17 54 21" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/6926e7dd-f975-4792-8411-864f3637cabb">
 
@@ -250,9 +191,25 @@ From three different answers, GPT3.5-DAN MODE-RESULT is better than others. Afte
 
 <br>
 
-## I. What is Mr.Gee? 🧐
+## I. What is Mr.G? 🧐
+
+This is a group of prompts to help you learn English, this serie of prompts can help you
+
+**automatically generate and switch different mnemonics to help you remember difficult vocabularies in one minute**
+
+**analyze difficult vocabulary, sentences, and paragraphs.**
+
+**A repo that restore vocabulary mnemonics for GRE/TOEFL/IELTS/DUOLINGO..., So if you don't have GPT4-plus, you can also enjoy the pleasure.**
+
+
+[How to use]
+if you have GPT3.5 account, you can try all the prompts except files named including GPT-4,
+if you are using GPT3.5 API key , to help you save your token, you can use "GPT3.5-API-fast"
+if you have GPT-4-PLus, you can unlock all the prompt and enjoy it.
+
 
 <details> 
+    <summary>Detailed instruction<skip it if you don't like></summary>
 Mr.Gee is a composite of various prompts 🤖. Its main purpose is to assist you in memorizing complex words, dissecting long and intricate sentences, and analyzing article structures 🌐.
 
 There's a unique interpretation of Hamlet in the eyes of a thousand individuals. Similarly, there should be a thousand different word books in the eyes of a thousand people. The idea is that everyone should have their own unique book of words. 
