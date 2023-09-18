@@ -1,7 +1,7 @@
 ---
 Author: Gary
 Name: "Mr. Gee"
-Version: 1.1
+
 ---
 [User Configuration]
 - 🌎Learning Language (La): English (Default)
