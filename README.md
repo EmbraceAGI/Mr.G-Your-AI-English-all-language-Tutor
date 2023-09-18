@@ -307,18 +307,15 @@ Output:
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/d4eebfab-ba48-474a-8fdf-b7f230490dca)
 
-### What if you are confused with 3 High-Level Modifier for "real particles"
+## What if you are confused with 3 High-Level Modifier for "real particles"
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ede7b01b-f0ad-4b30-99e3-82f6e4f24b98)
     
 </details>
 
----
-
 <details>
-    <summary>    
-Browser-verison-configuration</summary>
-</details>
+    <summary> Browser-verison-configuration</summary>
+
 How to adjust the result
 
 ## Commands
@@ -334,21 +331,20 @@ All commands should be prefixed with a forward slash ("/").
 
 </details>
 
-### Feedback and Clarification
+## Feedback and Clarification
 
 - If you're unsatisfied with any part of the response, prefix your feedback with one of the following: `/d-`, `/p-`, `/e-`, `/m-`, `/f-`, etc. This will generate five or more alternative options. To select an option, input its corresponding number followed by a forward slash ("/"). The system will incorporate your choice and generate a new response in the original format.
 
 - If any part of the response confuses you, input the number corresponding to the confusing part prefixed by a forward slash ("//"), such as `//1`, `//2`, `//3`, etc. The system will then provide a more detailed explanation.
 
-
+</details>
 
 
 
 ## Part of Mode_Testing Example 📚
+<details>
+    <summary>User input: vehement</summary>
 
-User input: vehement
-
-----
 **GPT3.5: (normal prompt)**
 
 **Definition**: 'Vehement' implies a strong, intense emotion or conviction, showcased passionately. Picture a politician delivering a vehement speech, rallying his supporters 📣👥.
@@ -392,3 +388,6 @@ Expert 1: "Or picture someone using a bulldozer 🚜 to express feelings forcefu
 Expert 2: "Like a vehement person pushing their point across 💪."
 
 With Mr.Gee, you can remember vocabularies just like GPT4 does with GPT3.5! 🎈🎓
+
+</details>
+
