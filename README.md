@@ -28,6 +28,8 @@
 </a>
 </p>
 
+
+
 # Demo: [Click Here](https://www.unilux.icu/posts/gre/)🖱  
 
 **❤ If you like this series of prompts and have GPT-4 Plus account, I sincerely invite you to join our contributors community, all you need to do is  upload your vocabulary List result in issues!**
@@ -103,14 +105,66 @@ Choose prompt that you need inside the /prompts file.
 | ![bard](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/c60294e5-83a2-411d-9c03-0e9aa236473a) | ![GPT3.5](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ee3f6402-0eaa-4e27-9229-6f4c9f395b1c) | ![GPT4](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/78e8f4de-f1cd-49c5-934c-ac9711782116) |
 
 
-## G-GPT4.md --Group vocabs Processing Update
+# Quick Start!
+
+## I. What is Mr.G? 🧐
+
+This is a group of prompts to help you learn English, this serie of prompts can help you
+
+**automatically generate and switch different mnemonics to help you remember difficult vocabularies in one minute**
+
+**analyze difficult vocabulary, sentences, and paragraphs.**
+
+**A repo that restore vocabulary mnemonics for GRE/TOEFL/IELTS/DUOLINGO..., So if you don't have GPT4-plus, you can also enjoy the pleasure.**
+
+<details> 
+    <summary>Detailed instruction<skip it if you don't like></summary>
+Mr.Gee is a composite of various prompts 🤖. Its main purpose is to assist you in memorizing complex words, dissecting long and intricate sentences, and analyzing article structures 🌐.
+
+There's a unique interpretation of Hamlet in the eyes of a thousand individuals. Similarly, there should be a thousand different word books in the eyes of a thousand people. The idea is that everyone should have their own unique book of words. 
+
+Traditional wordbooks follow a standard pattern: English words on the left and native language explanations on the right. This approach, over time, may reduce our sensitivity to English. With a learning pathway that goes from English to Chinese and back to English, the learning process can become slower. Hence, learning English in English is the most effective.
+
+Now, consider two individuals with vastly different English proficiency, one with a TOEFL score of 50 and another with a score of 100. It wouldn't make sense for them to learn using the same-word explanations. This is where Mr.Gee excels. It generates word explanations and memory cards customized to your actual English level and your preferred style of explanation. 
+
+For instance, a student who enjoys science fiction novels and another who favors romance novels would experience significant efficiency improvements if they could learn word explanations and examples in their preferred styles. 
+
+When it comes to complex sentences you may struggle with, Mr.Gee can deconstruct them for you. Once you're familiar with the symbols, you'll be able to understand the structure of any complicated sentence without needing a tutor to guide you through it.
+
+Mr.Gee creates your own personalized word book📖 based on your accumulated vocabulary, ensuring a customized and engaging learning journey 🎒. You can self-learn any language using Mr.Gee through platforms like Chat-GPT, Bing, Bard, or Claude. 
+
+(Note: Features like pronunciation correction and article deconstruction using Mr.Gee are still in experimentation.)
+
+</details>   
+
+
+## How to use Mr.G?
+
+**Open prompts file and input prompt you wanna use**
+
+if you have GPT3.5 account, you can try all the prompts except files named including GPT-3.5
+
+if you are using GPT3.5 API key , to help you save your token, you can use "GPT3.5-API"
+
+if you have GPT-4-PLus, you can unlock all the prompt and enjoy it.
+
+
+**Step One:** Input  Mr.G  prompt according your need.📚.
+
+**Step Two:** Input your vocabulary you cannot remember, phrasal verbs and  sentences that you don't understand, or even pharagraph 📖.
+
+
+
+# New Functions You may wanna try
+
+## G-GPT4.md --Group vocabs Processing [Update]
 
 
 <img width="1027" alt="Screenshot 2023-09-05 at 17 54 21" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/6926e7dd-f975-4792-8411-864f3637cabb">
 
 
 
-# DAN mode + GPT3.5 nearly equal GPT4 [Update]
+## DAN mode + GPT3.5 nearly equal GPT4 [Update]
 
 <details>
   <summary>  1. Unlock DAN Mode </summary>
@@ -141,83 +195,15 @@ Choose prompt that you need inside the /prompts file.
     
 <img width="877" alt="Screenshot 2023-07-27 at 17 40 25" src="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/54ce4d18-43c3-48b9-b09d-b56c5b0b7c8b">
 
-
-
 From three different answers, GPT3.5-DAN MODE-RESULT is better than others. After many experiments, GPT3.5-DAN MODE-RESULT and GPT4.0-RESULT are more satisfied
 
-
 </details>
-
-
-
-
-
-
 <br>
-
-## I. What is Mr.G? 🧐
-
-This is a group of prompts to help you learn English, this serie of prompts can help you
-
-**automatically generate and switch different mnemonics to help you remember difficult vocabularies in one minute**
-
-**analyze difficult vocabulary, sentences, and paragraphs.**
-
-**A repo that restore vocabulary mnemonics for GRE/TOEFL/IELTS/DUOLINGO..., So if you don't have GPT4-plus, you can also enjoy the pleasure.**
-
-
-[How to use]
-if you have GPT3.5 account, you can try all the prompts except files named including GPT-4,
-if you are using GPT3.5 API key , to help you save your token, you can use "GPT3.5-API-fast"
-if you have GPT-4-PLus, you can unlock all the prompt and enjoy it.
-
-
-<details> 
-    <summary>Detailed instruction<skip it if you don't like></summary>
-Mr.Gee is a composite of various prompts 🤖. Its main purpose is to assist you in memorizing complex words, dissecting long and intricate sentences, and analyzing article structures 🌐.
-
-There's a unique interpretation of Hamlet in the eyes of a thousand individuals. Similarly, there should be a thousand different word books in the eyes of a thousand people. The idea is that everyone should have their own unique book of words. 
-
-Traditional wordbooks follow a standard pattern: English words on the left and native language explanations on the right. This approach, over time, may reduce our sensitivity to English. With a learning pathway that goes from English to Chinese and back to English, the learning process can become slower. Hence, learning English in English is the most effective.
-
-Now, consider two individuals with vastly different English proficiency, one with a TOEFL score of 50 and another with a score of 100. It wouldn't make sense for them to learn using the same-word explanations. This is where Mr.Gee excels. It generates word explanations and memory cards customized to your actual English level and your preferred style of explanation. 
-
-For instance, a student who enjoys science fiction novels and another who favors romance novels would experience significant efficiency improvements if they could learn word explanations and examples in their preferred styles. 
-
-When it comes to complex sentences you may struggle with, Mr.Gee can deconstruct them for you. Once you're familiar with the symbols, you'll be able to understand the structure of any complicated sentence without needing a tutor to guide you through it.
-
-Mr.Gee creates your own personalized word book📖 based on your accumulated vocabulary, ensuring a customized and engaging learning journey 🎒. You can self-learn any language using Mr.Gee through platforms like Chat-GPT, Bing, Bard, or Claude. 
-
-(Note: Features like pronunciation correction and article deconstruction using Mr.Gee are still in experimentation.)
-
-</details>   
-
-
-
-
-
-
-
-
-## III. How to use Mr.Gee? 📝
-
-Making the best use of Mr.Gee is as easy as pie 🥧:
-
-You can [click here](https://chat.openai.com/share/b79788b0-bc66-45cf-b464-7def6d6f2dde) 🖱(ensure that you can open chat-gpt)
-
-Alternatively, you can directly copy Mr.Gee-bot.txt into your AI chat box
-
-**Step One:** Input your vocabulary, phrasal verbs, or sentences into Mr.Gee 📚.
-
-**Step Two:** Use Mr.Gee to assist you in flexible word memorization and dissection of complex sentences 📖.
-
-**Step Three:** Consolidate the answers generated with note-taking tools like Notion, and Anki card for note-taking, and repetition 🧐.
-
-With Mr.Gee, language learning becomes an exciting personalized journey🌍. Mr.Gee facilitates a rapid enhancement of your language skills like never before 🚀. Let's embark on this thrilling journey! Here's to enjoyable and effective learning!🎉
 
 
 ## How does the mnemonic function work?
 The mnemonic function in the JSON format provided works by breaking down the term into components that resemble familiar words or phrases, and then visualizing a conversation among three experts discussing the best method to memorize the term.
+
 
 1. **Breaking Down the Term**: The term is divided into components that may sound like familiar words or phrases, making them easier to remember.
 
@@ -255,21 +241,14 @@ Our language learning approach consists of two methods:
 
 The first method might seem slow, but once you master it, it will be the most powerful mode for language learning 💪. Our goal is to help you use this method, to learn English through English, and improve your language comprehension skills 🎓.
 
-## Result
-
-Enter Mr.Gee-bot.txt"
-
-Please note that emoticons are kept as is since they convey the same meaning across different languages.
-
-![image](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/6b8c8e10-d162-41d5-9621-a7a1ba505f40)
 
 
+# Browser-verison
 
-
-
+**this verision is more complicated, if you don't like, skip it and use other version**
 
 <details>
-  <summary>  Browser-version </summary>
+  <summary>  Browser-version-usage </summary>
     
 ## Ajust your configuration.
 **Input:/config**
@@ -285,9 +264,12 @@ Here is the table version:
 | Writing-Mode (Wr) | FO/SC/LA/CO/SO/RO/HI/FA/TH | Formal/Sci-Fi/Layman/Comedy/Socratic/Romance/Historical Fiction/Fantasy/Thriller |
 
 For example, to set your language to English, current level to TOEFL 80, the main goal to pass IELTS 8.0, learning mode to encouraging, and writing mode to romance, you would type: '/config EN, TO80, PA IE8.0, EN, RO'.
+</details>
 
 
-## Input vocabulary/phrasal verb/sentence
+
+<details>
+    <summary>Input vocabulary/phrasal verb/sentence</summary>
 
 **Input: /example** 
 
@@ -299,8 +281,7 @@ For example, to set your language to English, current level to TOEFL 80, the mai
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Linguist-Bot/assets/52512824/a20f6838-ac7b-4cb8-be11-9e15d0766e6a)
 
 
-
-**Input: They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected. **
+**Input: They are called virtual particles in order to distinguish them from real particles, whose lifetimes are not constrained in the same way, and which can be detected.**
 
 
 
@@ -329,11 +310,16 @@ Output:
 ### What if you are confused with 3 High-Level Modifier for "real particles"
 
 ![image](https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/assets/52512824/ede7b01b-f0ad-4b30-99e3-82f6e4f24b98)
+    
+</details>
 
+---
 
-----
-
-## How to adjust the result
+<details>
+    <summary>    
+Browser-verison-configuration</summary>
+</details>
+How to adjust the result
 
 ## Commands
 
