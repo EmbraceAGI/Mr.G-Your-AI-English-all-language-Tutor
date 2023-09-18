@@ -2,11 +2,11 @@
 <span>Mr.G-Your-AI-English or all Language-Tutor</span>
 </h1>
 <p align="center">
-    English | <a href="./README-CN.md">中文介绍</a> | <a href="./README-JP.md">日語の紹介</a>
+    English | <a href="./README-CN.md">中文</a> | <a href="./README-JP.md">日語の</a>
 </p>
 <p align="center">
     <em>
-"Struggling to remember English words, comprehend complex sentences, or grasp the main idea of an article? Have no fear, Mr. G is here to help you overcome these obstacles and learn any language on your own."You can use Mr.Gee through Chat-GPT/Bing/Bard/Claude to learn any language by yourself. </em>
+"Struggling to remember English words, comprehend complex sentences, or grasp the main idea of an article? Have no fear, Mr. G is here to help you overcome these obstacles and learn any language on your own."You can use Mr.G through Chat-GPT/Bing/Bard/Claude to learn any language by yourself. </em>
 </p>
 
 
