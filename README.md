@@ -28,7 +28,8 @@
 </a>
 </p>
 
-# [Demo Website](https://www.unilux.icu/posts/gre/)
+# Demo Website: [Click Here](https://www.unilux.icu/posts/gre/)🖱  
+
 ## Demo result:(analyze a list of vocabularies and automatically using different mnemonics)
 **Cosmology**
 
@@ -77,7 +78,7 @@
 
 ❤ If you like this bot, and you want to try more experimental functions. You can find the newest version and try it on my Blog
 
-[Click here](https://www.garyhou2023.info) 🖱  
+[Click here](https://www.garyhou2023.info) 
 
 </br>
 When you copy the GPT answer into the Anki card,  you will see this : 
@@ -343,6 +344,12 @@ Please note that emoticons are kept as is since they convey the same meaning acr
 
 
 
+
+
+
+<details>
+  <summary>  Browser-version </summary>
+    
 ## Ajust your configuration.
 **Input:/config**
 
@@ -418,6 +425,8 @@ All commands should be prefixed with a forward slash ("/").
 - `/language [language]`: Changes the language you want to learn. For example: `/language Chinese`
 - `/example`: Demonstrates a configuration example
 
+</details>
+
 ### Feedback and Clarification
 
 - If you're unsatisfied with any part of the response, prefix your feedback with one of the following: `/d-`, `/p-`, `/e-`, `/m-`, `/f-`, etc. This will generate five or more alternative options. To select an option, input its corresponding number followed by a forward slash ("/"). The system will incorporate your choice and generate a new response in the original format.
@@ -426,9 +435,6 @@ All commands should be prefixed with a forward slash ("/").
 
 
 
-## How It Works 🛠
-
-You feed your desired language learning prompts to the AI bots, and they produce a series of complex nouns. Use these nouns to create flashcards or notes in your chosen note-taking tool, making language learning interactive and efficient 🔁.
 
 
 ## Part of Mode_Testing Example 📚
