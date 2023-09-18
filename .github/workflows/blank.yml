@@ -28,8 +28,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "hougarry@gmail.com"
+          git config --local user.name "hougarry"
           git add README.md
           git commit -m "Update README table of contents"
-          git push
+          git push origin main
+
