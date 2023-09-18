@@ -30,9 +30,14 @@
 
 # Demo: [Click Here](https://www.unilux.icu/posts/gre/)🖱  
 
-❤ If you like this series of prompts and have GPT-4 Plus account, I sincerely invite you to join our contributor and upload your vocabulary List!
+**❤ If you like this series of prompts and have GPT-4 Plus account, I sincerely invite you to join our contributors community, all you need to do is  upload your vocabulary List result in issues!**
 
-## Demo result:(analyze a list of vocabularies and automatically using different mnemonics)
+**So people who cannot afford GPT4-plus can also enjoy the efficiency!**
+
+
+## Demo  result:(analyze a list of vocabularies and automatically using different mnemonics)
+<details>
+    <summary>Partial Result</summary>
 **Cosmology**
 
 📚 Definition: The study of the origin, structure, and future of the universe.
@@ -75,6 +80,7 @@
 
 ⭐ Prediction: ★★☆☆☆
 
+</details>
 </br>
 ---
 **When you copy the GPT answer into the Anki card, you will see this:**
