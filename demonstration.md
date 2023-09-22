@@ -4,36 +4,7 @@
     English | <a href="./README-CN.md">中文介绍</a> | <a href="./README-JP.md">日本語の紹介</a>
 </p>
 
-<p align="center">
-    <em>"Struggling to remember English words, comprehend complex sentences, or grasp the main idea of an article? Have no fear, Mr. Gee is here to help you overcome these obstacles and learn any language on your own." You can use Mr.Gee through Chat-GPT/Bing/Bard/Claude to learn any language by yourself.</em>
-</p>
-
-<p align="center">
-    <a href="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/releases" target="_blank">
-        <img alt="macOS" src="https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple&logoColor=white" />
-    </a>
-    <a href="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/releases" target="_blank">
-        <img alt="Windows" src="https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows&logoColor=white" />
-    </a>
-    <a href="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/releases" target="_blank">
-        <img alt="Linux" src="https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=linux&logoColor=white" />
-    </a>
-    <a href="https://github.com/hougarry/Mr.Gee-Your-AI-Language-Bot/releases" target="_blank">
-        <img alt="Downloads" src="https://img.shields.io/github/downloads/hougarry/Mr.Gee-Your-AI-Language-Bot/total.svg?style=flat" />
-    </a>
-    <a href="http://www.garyhou2023.info" target="_blank">
-        <img alt="Blog" src="https://img.shields.io/badge/blog-www.garyhou2023.info-blue?style=flat" />
-    </a>
-</p>
-
-<h2>Key Words:</h2>
-
-- "使用AI和ChatGPT学习英语"
-- "ChatGPT作为AI英语学习工具"
-- "ChatGPT英语学习技巧"
-- "使用AIとChatGPTで英語を学ぶ"
-- "ChatGPTをAI英語学習ツールとして使用する"
-- "ChatGPT英語学習のテクニック"
+# Try more Advanced-Prompt [Click here](https://github.com/hougarry/chatgpt-advanced-prompts)
 
 <h1>Mr.Gee: Your Personalized AI-Language Learning Bot 🤖</h1>
 
