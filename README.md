@@ -23,6 +23,7 @@
 ## Demo  result:(analyze a list of vocabularies and automatically using different mnemonics)
 <details>
     <summary>Partial Result</summary>
+    
 **Cosmology**
 
 📚 Definition: The study of the origin, structure, and future of the universe.
