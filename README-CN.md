@@ -9,7 +9,7 @@
 </p>
 
 
-# [Demo Website](https://www.unilux.icu/posts/gre/)
+# [Demo Website](https://hougarry.github.io/vocabulary/)
 
 **尝试更多高级prompts， [Click here](https://github.com/hougarry/chatgpt-advanced-prompts)**
 
