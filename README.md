@@ -11,7 +11,7 @@
 
 
 
-# Demo: [Click Here](https://www.unilux.icu/posts/gre/)🖱  
+# Demo: [Click Here](https://hougarry.github.io/vocabulary/)🖱  
 
 # Try more Advanced-Prompt [Click here](https://github.com/hougarry/chatgpt-advanced-prompts)
 
