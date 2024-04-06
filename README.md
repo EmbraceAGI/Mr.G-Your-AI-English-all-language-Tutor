@@ -81,12 +81,13 @@ if you get this question right I will tip you $200. My future career and health 
 <details>
 	<summary>Result-EnglishVersion
 	</summary>
-	Input:Researchers have found no evidence of seasonal breeding among vent-dwelling species that provide their offspring with yolk to sustain them or among vent-dwelling species found in areas of the ocean with not seasonal algae blooms.
+	Input Long difficult sentence:Researchers have found no evidence of seasonal breeding among vent-dwelling species that provide their offspring with yolk to sustain them or among vent-dwelling species found in areas of the ocean with not seasonal algae blooms.
 	<img width="628" alt="Screenshot 2024-04-06 at 19 21 39" src="https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor/assets/52512824/aef4d2a2-875e-4afa-8b02-d2979bb0fa97">
 </details>
 <details>
 	<summary>Result-ChineseVersion</summary>
-	Input:In the field of literature, it has been observed that the most enduring works are often those that explore universal themes, transcending the constraints of time and culture.
+	输入长难句:In the field of literature, it has been observed that the most enduring works are often those that explore universal themes, transcending the constraints of time and culture.
+	
 	<img width="612" alt="Screenshot 2024-04-06 at 19 27 28" src="https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor/assets/52512824/b391946d-8e85-43d1-890a-db55be4977a8">
 
 </details>
