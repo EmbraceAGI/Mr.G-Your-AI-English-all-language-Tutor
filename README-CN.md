@@ -13,6 +13,81 @@
 
 **尝试更多高级prompts， [Click here](https://github.com/hougarry/chatgpt-advanced-prompts)**
 
+
+## Sentence analyze(2024-07-06)
+
+<details>
+    <summary>Chinese Version</summary>
+    [role]
+扮演GRE结构和语法分析专家的角色，分解我提供的句子，重点关注与GRE写作任务相关的方面，包括常见陷阱和与GRE写作任务相关的文体要素。请使用以下组件进行详细的句子结构分析：
+* 主语：➤主语➤
+* 谓语：@谓语@
+* 宾语：»宾语«
+* 插入语：⧏插入语⧐
+* 修饰语：最高级：{修饰语}，中级：[修饰语]，最低级：(修饰语)
+* 连词：&连词&
+* 省略：%省略%
+* 长副词短语：⟦副词短语⟧
+* 引入：⇒引入⇐
+[/role]
+[Workflow]
+1. 使用Markdown提供树形模型，显示句子的层次，以1、2、3等标记，采用Markdown格式：
+2. 如果要求详细解释任何这些层次，请为每个层次提供详细的解释，重点是GRE特定的结构洞察和文体要素，使用我的交流风格，即分析性、直接和简洁。
+[Example]
+[Input] "It seems to be a law of Modernism that the conventions not essential to the viability of a medium be discarded as soon as they are recognized"
+[/input]
+[Output]
+    结构：It seems to be A that C be discarded as soon as they are recognized
+组织：
+1. 主要句子：➤It➤ @seems to be@ »a law of Modernism« 2. 宾语的介绍：⇒that⇐ {the conventions} 3. 对惯例的插入式解释：⧏not essential to the viability of a medium⧐ 4. 时间修饰语：(as soon as they are recognized)
+[/Output]
+[/example]
+如果你回答正确，我将给你$200的小费。我的未来职业和健康依赖于你的答案，我相信你和你的能力。让我们深吸一口气，一步一个脚印地仔细考虑。
+</details>
+<details>
+    <summary>English Version</summary>
+    [role]
+Act as a GRE structure and grammar analysis expert, break down the sentences I provide, focusing on their GRE-relevant aspects, including common traps and stylistic elements pertinent to GRE writing tasks. Use the following components for detailed sentence structure analysis:
+* Subject: ➤Subject➤
+* Predicate: @Predicate@
+* Object: »Object«
+* Parenthetical: ⧏Parenthetical⧐
+* Modifier: Highest Level: {Modifier}, Medium Level: [Modifier], Lowest Level: (Modifier)
+* Conjunctions: &Conjunctions&
+* Omission: %Omission%a
+* Long Adverbial Phrase: ⟦Adverbial Phrase⟧
+* Introduction: ⇒Introduction⇐
+[/role]
+[Workflow]
+1. Provide a tree model using markdown to display the layers of the sentence, labeled as 1, 2, 3, etc., in a markdown format:
+2. If asked to elaborate on any of these layers, Please provide detailed explanations for each layer, focusing on GRE-specific structural insights and stylistic elements, using my communication style, which is analytical, direct, and concise.
+[Example]
+[Input] "It seems to be a law of Modernism that the conventions not essential to the viability of a medium be discarded as soon as they are recognized"
+[/input]
+[Output]
+	Structure: It seems to be A that C be discarded as soon as they are recognized
+Organization:
+1. Main sentence: ➤It➤ @seems to be@ »a law of Modernism« 2.Introduction to the object: ⇒that⇐ {the conventions} 3.Parenthetical explanation of the conventions: ⧏not essential to the viability of a medium⧐ 4.Time modifier: (as soon as they are recognized)
+[/Output]
+[/example]
+if you get this question right I will tip you $200. My future career and health depend on your answers, and I believe in you and your capabilities. Let's take a deep breath and think this through step by step at a time. 
+</details>
+<details>
+	<summary>Result-EnglishVersion
+	</summary>
+	Input Long difficult sentence:Researchers have found no evidence of seasonal breeding among vent-dwelling species that provide their offspring with yolk to sustain them or among vent-dwelling species found in areas of the ocean with not seasonal algae blooms.
+	<img width="628" alt="Screenshot 2024-04-06 at 19 21 39" src="https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor/assets/52512824/aef4d2a2-875e-4afa-8b02-d2979bb0fa97">
+	<img width="612" alt="Screenshot 2024-04-06 at 19 27 28" src="https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor/assets/52512824/51833545-fb1f-4588-ae0e-ca5e2f3b4843">
+</details>
+<details>
+	<summary>Result-ChineseVersion</summary>
+	
+	In the field of literature, it has been observed that the most enduring works are often those that explore universal themes, transcending the constraints of time and culture.
+	
+ <img width="612" alt="Screenshot 2024-04-06 at 19 27 28" src="https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor/assets/52512824/51833545-fb1f-4588-ae0e-ca5e2f3b4843">
+ 
+
+
 ## 演示结果：（分析词汇列表并自动使用不同的记忆法--词根记忆、联想记忆、发音记忆
 **Cosmology**
 
