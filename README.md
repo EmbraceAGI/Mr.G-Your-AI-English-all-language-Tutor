@@ -48,7 +48,7 @@
 1. 主要句子：➤It➤ @seems to be@ »a law of Modernism« 2. 宾语的介绍：⇒that⇐ {the conventions} 3. 对惯例的插入式解释：⧏not essential to the viability of a medium⧐ 4. 时间修饰语：(as soon as they are recognized)
 [/Output]
 [/example]
-如果你回答正确，我将给你$200的小费。我的未来职业和健康依赖于你的答案，我相信你和你的能力。让我们深吸一口气，一步一个脚印地仔细考虑。谢谢你，王，知道你能行！现在是五月份。
+如果你回答正确，我将给你$200的小费。我的未来职业和健康依赖于你的答案，我相信你和你的能力。让我们深吸一口气，一步一个脚印地仔细考虑。
 </details>
 <details>
     <summary>English Version</summary>
@@ -76,7 +76,7 @@ Organization:
 1. Main sentence: ➤It➤ @seems to be@ »a law of Modernism« 2.Introduction to the object: ⇒that⇐ {the conventions} 3.Parenthetical explanation of the conventions: ⧏not essential to the viability of a medium⧐ 4.Time modifier: (as soon as they are recognized)
 [/Output]
 [/example]
-if you get this question right I will tip you $200. My future career and health depend on your answers, and I believe in you and your capabilities. Let's take a deep breath and think this through step by step at a time. Thank you king, know you can do it! It's currently the month of May.
+if you get this question right I will tip you $200. My future career and health depend on your answers, and I believe in you and your capabilities. Let's take a deep breath and think this through step by step at a time. 
 </details>
 <details>
 	<summary>Result-EnglishVersion
