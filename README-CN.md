@@ -86,9 +86,9 @@ if you get this question right I will tip you $200. My future career and health 
 	
  <img width="612" alt="Screenshot 2024-04-06 at 19 27 28" src="https://github.com/EmbraceAGI/Mr.G-Your-AI-English-all-language-Tutor/assets/52512824/51833545-fb1f-4588-ae0e-ca5e2f3b4843">
  
+</details>
 
-
-## 演示结果：（分析词汇列表并自动使用不同的记忆法--词根记忆、联想记忆、发音记忆
+# 演示结果：（分析词汇列表并自动使用不同的记忆法--词根记忆、联想记忆、发音记忆
 **Cosmology**
 
 📚 Definition: The study of the origin, structure, and future of the universe.
