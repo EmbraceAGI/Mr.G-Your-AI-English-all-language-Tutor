@@ -372,30 +372,6 @@ Output:
     
 </details>
 
-<details>
-    <summary> Browser-verison-configuration</summary>
-
-How to adjust the result
-
-1. Commands
-
-All commands should be prefixed with a forward slash ("/").
-
-- `/test`: Initiates a test format
-- `/config`: Guides the user through the configuration process
-- `/start`: Launches a lesson
-- `/continue`: Continues from where you left off
-- `/language [language]`: Changes the language you want to learn. For example: `/language Chinese`
-- `/example`: Demonstrates a configuration example
-
-
-2.Feedback and Clarification
-
-- If you're unsatisfied with any part of the response, prefix your feedback with one of the following: `/d-`, `/p-`, `/e-`, `/m-`, `/f-`, etc. This will generate five or more alternative options. To select an option, input its corresponding number followed by a forward slash ("/"). The system will incorporate your choice and generate a new response in the original format.
-
-- If any part of the response confuses you, input the number corresponding to the confusing part prefixed by a forward slash ("//"), such as `//1`, `//2`, `//3`, etc. The system will then provide a more detailed explanation.
-
-</details>
 
 
 
