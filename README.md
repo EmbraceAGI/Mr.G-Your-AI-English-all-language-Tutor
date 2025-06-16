@@ -11,9 +11,9 @@
 
 
 
-# Demo: [Click Here](https://hougarry.github.io/vocabulary/)🖱  
+# Demo: [Click Here](https://gy-hou.github.io/vocabulary/)🖱  
 
-# Try more Advanced-Prompt [Click here](https://github.com/hougarry/chatgpt-advanced-prompts)
+# Try more Advanced-Prompt [Click here](https://github.com/gy-hou/chatgpt-advanced-prompts)
 
 **❤ If you like this series of prompts and have GPT-4 Plus account, I sincerely invite you to join our contributors community, all you need to do is  upload your vocabulary List result in issues!**
 
