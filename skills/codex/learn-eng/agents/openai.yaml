@@ -1,4 +1,0 @@
-interface:
-  display_name: "Learn Eng"
-  short_description: "Tri-mode analysis + iterative test mode"
-  default_prompt: "Use $learn-eng to route my input into vocabulary, sentence, or paragraph analysis, then update repos and run test-mode if needed."
