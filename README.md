@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+> 项目更新：通用 Agent 版本（Codex / Claude Code / 通用 Agent）已迁移到新仓库：
+> **https://github.com/gy-hou/learn-eng-skill**
+>
+> 当前仓库（Mr.G）定位为：**Codex 场景兼容版本**。
+
 <h1 align="center">
 <span>Mr.G-Your-AI-English or all Language-Tutor</span>
 </h1>
